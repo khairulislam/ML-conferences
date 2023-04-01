@@ -38,39 +38,39 @@ This project lists the Machine Learning and Data Mining related conferences with
 </tr>
 
 <tr>
-<td><a href="https://www.auai.org/uai2023/">UAI</td><td>17 Feb, 2023</td><td>May 8, 2023</td><td>Aug 1-3, 2023</td><td>CMU, PA, US</td><td>May 22, 2023</td><td>June 30, 2023</td>
+<td><a href="https://www.auai.org/uai2023/">UAI</td><td><s>17 Feb, 2023</td><td>May 8, 2023</td><td>Aug 1-3, 2023</td><td>CMU, PA, US</td><td>May 22, 2023</td><td>June 30, 2023</td>
 </tr>
 
 <tr>
-<td><a href="https://kdd.org/kdd2023/">KDD</td><td>Feb 2, 2023</td><td>May 16, 2023</td><td>Aug 6-8, 2023</td><td>Long Beach, CA</td><td>May 26, 2023</td><td>June 13, 2023</td>
+<td><a href="https://kdd.org/kdd2023/">KDD</td><td><s>Feb 2, 2023</td><td>May 16, 2023</td><td>Aug 6-8, 2023</td><td>Long Beach, CA</td><td>May 26, 2023</td><td>June 13, 2023</td>
 </tr>
 
 <tr>
-<td><a href="https://ijcai-23.org/">IJCAI</td><td>Jan 18, 2023</td><td>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
+<td><a href="https://ijcai-23.org/">IJCAI</td><td><s>Jan 18, 2023</td><td><s>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="https://icml.cc/Conferences/2023/"> ICML</td><td>Jan 26, 2023</td><td>April 22, 2023</td><td>July 23-29, 2023</td><td>Hawaii, USA</td><td>Feb 16, 2023</td><td>March 16, 2023</td>
+<tr>
+<td><a href="https://icml.cc/Conferences/2023/"><s> ICML</td><td>Jan 26, 2023</td><td>April 22, 2023</td><td>July 23-29, 2023</td><td>Hawaii, USA</td><td>Feb 16, 2023</td><td>March 16, 2023</td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="http://aistats.org/aistats2023/">AISTATS</td><td>Oct 13, 2022</td><td>Nov 21, 2022</td><td>April 25-27, 2023</td><td>Valencia, Spain</td><td></td><td></td>
+<tr>
+<td><a href="http://aistats.org/aistats2023/"><s>AISTATS</td><td>Oct 13, 2022</td><td>Nov 21, 2022</td><td>April 25-27, 2023</td><td>Valencia, Spain</td><td></td><td></td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="https://iclr.cc/Conferences/2023">ICLR</td><td>Sep 28, 2022</td><td>Jan 21, 2023</td><td>May 1-5, 2023</td><td>Kigali, Rwanda</td><td>Feb 3, 2023</td><td>March 4, 2023</td>
+<tr>
+<td><a href="https://iclr.cc/Conferences/2023"><s>ICLR</td><td>Sep 28, 2022</td><td>Jan 21, 2023</td><td>May 1-5, 2023</td><td>Kigali, Rwanda</td><td>Feb 3, 2023</td><td>March 4, 2023</td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="https://www.siam.org/conferences/cm/conference/sdm23">~~SDM~~</td><td>Oct 7, 2022</td><td></td><td>April 27-29, 2023</td><td>Minnesota, US.</td><td></td><td></td>
+<tr>
+<td><a href="https://www.siam.org/conferences/cm/conference/sdm23"><s>SDM</td><td>Oct 7, 2022</td><td></td><td>April 27-29, 2023</td><td>Minnesota, US.</td><td></td><td></td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="https://aaai-23.aaai.org/">AAAI</td><td>Aug 15, 2022</td><td>Sep 27, 2022</td><td>Feb 7-14, 2023</td><td>Wachington, DC, US</td><td>Sep 23, 2022</td><td>Nov 18, 2022</td>
+<tr>
+<td><a href="https://aaai-23.aaai.org/"><s>AAAI</td><td>Aug 15, 2022</td><td>Sep 27, 2022</td><td>Feb 7-14, 2023</td><td>Wachington, DC, US</td><td>Sep 23, 2022</td><td>Nov 18, 2022</td>
 </tr>
 
-<tr class="strikethrough">
-<td><a href="https://www.wsdm-conference.org/2023/">WSDM</td><td>Aug 12, 2022</td><td>Oct 21, 2022</td><td>Feb 27- March 3, 2023</td><td>Singapore</td><td>Jan 15, 2023</td><td>Feb 1, 2023</td>
+<tr>
+<td><a href="https://www.wsdm-conference.org/2023/"><s>WSDM</s></td><td>Aug 12, 2022</td><td>Oct 21, 2022</td><td>Feb 27- March 3, 2023</td><td>Singapore</td><td>Jan 15, 2023</td><td>Feb 1, 2023</td>
 </tr>
 
 </tbody>
@@ -86,7 +86,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 |:----------:|:----------:|:-----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | [IJCAI](https://www.ijcai.org/) | ~January | ~April |   | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | [🔗](https://www.ijcai19.org/accepted-papers.html) | 
 | [KDD](https://www.kdd.org/) | ~February | ~May |   | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) | 
-| [CIKM](http://www.cikmconference.org/) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |   | 
+| [CIKM](http://www.cikmconference.org/) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |  [🔗](https://dblp.org/db/conf/cikm/cikm2019.html) | 
 | [AAAI](https://aaai.org/) | ~Aug | ~November |   | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2020.html) | [🔗](https://dblp.org/db/conf/aaai/aaai2019.html) | 
 | [WWW](https://dl.acm.org/conference/www) | ~October | ~January |   | [🔗](https://www2022.thewebconf.org/accepted-papers/) | [🔗](https://www2021.thewebconf.org/program/papers/) | [🔗](https://dl.acm.org/doi/proceedings/10.1145/3366423) | [🔗](https://www2019.thewebconf.org/accepted-papers) | 
 | [ICML](https://icml.cc/) | ~January | ~May |   | [🔗](https://icml.cc/Conferences/2022/Schedule) | [🔗](https://icml.cc/Conferences/2021/Schedule) | [🔗](https://icml.cc/Conferences/2020/Schedule) | [🔗](https://icml.cc/Conferences/2019/Schedule) | 
