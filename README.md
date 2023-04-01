@@ -97,8 +97,8 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 ## AI Conferences
 
-### IJCAI
-[Past proceedings](https://www.ijcai.org/past_proceedings). 
+### [IJCAI](https://www.ijcai.org/)
+International Joint Conferences on Artificial Intelligence Organization. [Past proceedings](https://www.ijcai.org/past_proceedings). 
 
 <div align="center" style="overflow-x:auto;">
 
@@ -116,7 +116,9 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 </div>
 
-### AAAI
+### [AAAI](https://aaai.org/)
+
+Association for the Advancement of Artificial Intelligence. 
 
 <div align="center" style="overflow-x:auto;">
 
@@ -135,7 +137,9 @@ This project lists the Machine Learning and Data Mining related conferences with
 </div>
 
 ## Data and Knowledge Conferences
-### KDD
+### [KDD](https://www.kdd.org/)
+
+Special Interest Group on Knowledge Discovery and Data Mining.
 
 <div align="center" style="overflow-x:auto;">
 
@@ -151,7 +155,9 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 </div>
 
-### CIKM
+### [CIKM](http://www.cikmconference.org/)
+
+International Conference on Information and Knowledge Management.
 
 <div align="center" style="overflow-x:auto;">
 
@@ -178,7 +184,9 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 ## ML Conferences
 
-### ICML
+### [ICML](https://icml.cc/)
+
+International Conference on Machine Learning.
 
 <div align="center" style="overflow-x:auto;">
 
@@ -193,6 +201,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 </div>
 
 ### [NeurIPS](https://neurips.cc/)
+
 Conference on Neural Information Processing Systems. 
 [Official Collection](https://papers.nips.cc/) and [proceedings](https://proceedings.neurips.cc/).
 
@@ -209,7 +218,9 @@ Conference on Neural Information Processing Systems.
 
 </div>
 
-### ICLR
+### [ICLR](https://iclr.cc/)
+
+International Conference on Learning Representations.
 
 <div align="center" style="overflow-x:auto;">
 
