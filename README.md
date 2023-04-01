@@ -1,55 +1,12 @@
-
-<style>
-
-table, td {
-  border: 1px solid white;
-  text-align: center; 
-    vertical-align: middle;
-}
-
-th {
-  border: 1.5px solid white;
-  text-align: center; 
-    vertical-align: middle;
-}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-tr.strikeout td:before {
-    content: " ";
-    position: absolute;
-    top: 50%;
-    left: 0;
-    border-bottom: 1px solid #111;
-    width: 100%;
-}
-
-.strikethrough {
-  background: repeating-linear-gradient(
-    180deg,
-    white 0%,
-    black 10%
-  );
-  background-size: 95% 1px;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-/* https://www.w3schools.com/Tags/ref_colornames.asp */
-</style>
-
 # Introduction
 
-This project lists the Machine Learning and Data Mining related conferences with their important date and list of acceppted papers.
+This project lists the Machine Learning and Data Mining related conferences with their important date and list of accepted papers.
 
-## Current Year
+## Current Year - 2023
 
-<div style="overflow-x:auto;">
-<table>
-<caption> <h2> 2023 </h2</caption>
+<div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
+<table border="1">
+<caption> <h2> Table: AI and ML conferences with important dates and </h2</caption>
 <thead>
 
 <tr>
@@ -105,7 +62,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 </tr>
 
 <tr class="strikethrough">
-<td><a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM</td><td>Oct 7, 2022</td><td></td><td>April 27-29, 2023</td><td>Minnesota, US.</td><td></td><td></td>
+<td><a href="https://www.siam.org/conferences/cm/conference/sdm23">~~SDM~~</td><td>Oct 7, 2022</td><td></td><td>April 27-29, 2023</td><td>Minnesota, US.</td><td></td><td></td>
 </tr>
 
 <tr class="strikethrough">
@@ -123,10 +80,10 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 ## Summary
 
-<div align="center">
+<div align="center" style="overflow-x:auto;">
 
 | Conference | Submission | Notification | 2023 | 2022 | 2021 | 2020 | 2019 |
-| ---------- | ---------- | ------------ | ---- | ---- | ---- | ---- | ---- |
+|:----------:|:----------:|:-----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | [IJCAI](https://www.ijcai.org/) | ~January | ~April |   | [🔗](https://ijcai-22.org/main-track-accepted-papers/) | [🔗](https://ijcai-21.org/program-main-track/) | [🔗](http://static.ijcai.org/2020-accepted_papers.html) | [🔗](https://www.ijcai19.org/accepted-papers.html) | 
 | [KDD](https://www.kdd.org/) | ~February | ~May |   | [🔗](https://kdd.org/kdd2022/paperRT.html) | [🔗](https://www.kdd.org/kdd2021/accepted-papers) | [🔗](https://www.kdd.org/kdd2020/accepted-papers) | [🔗](https://www.kdd.org/kdd2019/accepted-papers) | 
 | [CIKM](http://www.cikmconference.org/) | ~May | ~August |   | [🔗](https://www.cikm2022.org/papers-posters) | [🔗](https://www.cikm2021.org/accepted-papers) | [🔗](https://www.cikm2020.org/index.html@p=1073.html) |   | 
@@ -141,7 +98,10 @@ This project lists the Machine Learning and Data Mining related conferences with
 ## AI Conferences
 
 ### IJCAI
-[Past proceedings](https://www.ijcai.org/past_proceedings)
+[Past proceedings](https://www.ijcai.org/past_proceedings). 
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023| [🔗](https://ijcai-23.org/)|  | 2023-01-18| 2023-04-19|
@@ -154,8 +114,12 @@ This project lists the Machine Learning and Data Mining related conferences with
 | 2016|  | [🔗](https://www.ijcai.org/proceedings/2016)| | |
 | 2015|  | [🔗](https://www.ijcai.org/Proceedings/2015)| | |
 
+</div>
 
 ### AAAI
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023| [🔗](https://aaai.org/Conferences/AAAI-23/)|  | 2022-08-15| 2023-08-15|
@@ -168,9 +132,13 @@ This project lists the Machine Learning and Data Mining related conferences with
 | 2016| [🔗](https://aaai.org/conference/aaai/aaai16/) | [🔗](https://dblp.org/db/conf/aaai/aaai2016.html)| | |
 | 2015| [🔗](https://aaai.org/conference/aaai/aaai15/) | [🔗](https://dblp.org/db/conf/aaai/aaai2015.html)| | |
 
+</div>
 
 ## Data and Knowledge Conferences
 ### KDD
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023|  |  | | |
@@ -181,8 +149,12 @@ This project lists the Machine Learning and Data Mining related conferences with
 | 2018|  | [🔗](https://www.kdd.org/kdd2018/accepted-papers)| | |
 | 2017|  | [🔗](https://www.kdd.org/kdd2017/accepted-papers)| | |
 
+</div>
 
 ### CIKM
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023|  |  | | |
@@ -190,6 +162,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 | 2021|  | [🔗](https://www.cikm2021.org/accepted-papers)| | |
 | 2020|  | [🔗](https://www.cikm2020.org/index.html@p=1073.html)| | |
 
+</div>
 
 <!-- ### WWW
 
@@ -206,6 +179,9 @@ This project lists the Machine Learning and Data Mining related conferences with
 ## ML Conferences
 
 ### ICML
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023| [🔗](https://icml.cc/Conferences/2023)|  | 2023-01-26| |
@@ -214,10 +190,13 @@ This project lists the Machine Learning and Data Mining related conferences with
 | 2020| [🔗](https://icml.cc/Conferences/2020)| [🔗](https://icml.cc/Conferences/2020/Schedule)| | |
 | 2019| [🔗](https://icml.cc/Conferences/2019)| [🔗](https://icml.cc/Conferences/2019/Schedule)| | |
 
+</div>
 
 ### [NeurIPS](https://neurips.cc/)
 Conference on Neural Information Processing Systems. 
 [Official Collection](https://papers.nips.cc/) and [proceedings](https://proceedings.neurips.cc/).
+
+<div align="center" style="overflow-x:auto;">
 
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
@@ -228,8 +207,12 @@ Conference on Neural Information Processing Systems.
 | 2019| [🔗](https://neurips.cc/Conferences/2019) | [🔗](https://papers.nips.cc/paper/2019)| 2019-05-23 | 2019-09-04|
 | 2018| [🔗](https://neurips.cc/Conferences/2018) | [🔗](https://papers.nips.cc/paper/2018)| 2019-05-18 | 2019-09-05 |
 
+</div>
 
 ### ICLR
+
+<div align="center" style="overflow-x:auto;">
+
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2023| [🔗](https://iclr.cc/Conferences/2023)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| 2022-09-28| 2023-01-21|
@@ -237,6 +220,7 @@ Conference on Neural Information Processing Systems.
 | 2021| [🔗](https://iclr.cc/Conferences/2021)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
 | 2020| [🔗](https://iclr.cc/Conferences/2020)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
 
+</div>
 
 ## Source
 * [dblp computer science bibliography ](https://dblp.uni-trier.de/)

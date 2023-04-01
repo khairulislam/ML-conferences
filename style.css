@@ -1,0 +1,36 @@
+table, td {
+    border: 1px solid white;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+th {
+    border: 1.5px solid white;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr.strikeout td:before {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-bottom: 1px solid #111;
+    width: 100%;
+}
+
+.strikethrough {
+    background: repeating-linear-gradient(
+        180deg,
+        white 0%,
+        black 10%
+    );
+    background-size: 95% 1px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
