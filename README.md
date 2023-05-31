@@ -2,11 +2,11 @@
 
 This project lists the Machine Learning and Data Mining related conferences with their important date and list of accepted papers.
 
-## Current Year - 2023
+## Current Year and Next
 
 <div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
 <table border="1">
-<caption> <h2> Table: AI and ML conferences with important dates and </h2</caption>
+<caption> <h2> Table: AI and ML conferences with important info</h2</caption>
 <thead>
 
 <tr>
@@ -25,48 +25,46 @@ This project lists the Machine Learning and Data Mining related conferences with
 <tbody>
 
 <tr>
-<td><a href="https://www.cloud-conf.net/icdm2023/"> ICDM</td><td>July 1, 2023</td><td>Sep 1, 2023</td><td>Dec 1-4 ,2023</td><td>Shanghai, China</td><td>Sep 3, 2023</td><td>Sep 24, 2023</td>
-</tr>
-
-<tr>
 <td><a href="https://cikm2023.github.io/">CIKM</td><td>June 2, 2023</td><td></td><td>Oct 21-25, 2023</td><td>Birmingham, UK</td><td></td><td></td>
 </tr>
+<tr>
+<td><a href="https://www.acml-conf.org/2023/"> ACML </td><td>June 23, 2023</td><td>Aug 11, 2023</td><td>Dec 1-4 ,2023</td><td>Shanghai, China</td><td>Sep 3, 2023</td><td>Sep 24, 2023</td>
+</tr>
+<tr>
+<td><a href="https://2023.emnlp.org/"> EMNLP </td><td>June 23, 2023</td><td>Aug 22, 2023</td><td>Dec 6-10 ,2023</td><td>Singapore</td><td></td><td></td>
+</tr>
 
 <tr>
-<td><a href="https://neurips.cc/Conferences/2023"> NeurIPS</td> 
+<td><a href="https://www.cloud-conf.net/icdm2023/"> ICDM</td><td>July 1, 2023</td><td>Sep 1, 2023</td><td>Nov 11-14 ,2023</td><td>Istanbul, Turkey</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://aaai.org/aaai-conference/"> AAAI </td><td>Aug 15, 2023</td><td>Sep 27, 2023</td><td>Feb 20-27 ,2024</td><td>VANCOUVER, CANADA</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="http://bigdataieee.org/BigData2023/index.html"> IEEE BigData </td><td>Sep 3, 2023</td><td>Oct 27, 2023</td><td>Dec 15-18, 2023</td><td>Sorrento, Italy</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://neurips.cc/Conferences/2023"> <s>NeurIPS</td> 
 <td>May 17, 2023</td><td>Sep 21, 2023</td><td>Dec 10-16, 2023</td><td>New Orleans, LA </td><td></td><td></td>
 </tr>
 
 <tr>
-<td><a href="https://www.auai.org/uai2023/">UAI</td><td><s>17 Feb, 2023</td><td>May 8, 2023</td><td>Aug 1-3, 2023</td><td>CMU, PA, US</td><td>May 22, 2023</td><td>June 30, 2023</td>
+<td><a href="https://www.auai.org/uai2023/"><s>UAI</td><td>17 Feb, 2023</td><td>May 8, 2023</td><td>Aug 1-3, 2023</td><td>CMU, PA, US</td><td>May 22, 2023</td><td>June 30, 2023</td>
 </tr>
 
 <tr>
-<td><a href="https://kdd.org/kdd2023/">KDD</td><td><s>Feb 2, 2023</td><td>May 16, 2023</td><td>Aug 6-8, 2023</td><td>Long Beach, CA</td><td>May 26, 2023</td><td>June 13, 2023</td>
+<td><a href="https://kdd.org/kdd2023/"><s>KDD</td><td>Feb 2, 2023</td><td>May 16, 2023</td><td>Aug 6-8, 2023</td><td>Long Beach, CA</td><td>May 26, 2023</td><td>June 13, 2023</td>
 </tr>
 
 <tr>
-<td><a href="https://ijcai-23.org/">IJCAI</td><td><s>Jan 18, 2023</td><td><s>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
+<td><a href="https://ijcai-23.org/"><s>IJCAI</s></td><td>Jan 18, 2023</td><td>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
 </tr>
 
 <tr>
 <td><a href="https://icml.cc/Conferences/2023/"><s> ICML</td><td>Jan 26, 2023</td><td>April 22, 2023</td><td>July 23-29, 2023</td><td>Hawaii, USA</td><td>Feb 16, 2023</td><td>March 16, 2023</td>
-</tr>
-
-<tr>
-<td><a href="http://aistats.org/aistats2023/"><s>AISTATS</td><td>Oct 13, 2022</td><td>Nov 21, 2022</td><td>April 25-27, 2023</td><td>Valencia, Spain</td><td></td><td></td>
-</tr>
-
-<tr>
-<td><a href="https://iclr.cc/Conferences/2023"><s>ICLR</td><td>Sep 28, 2022</td><td>Jan 21, 2023</td><td>May 1-5, 2023</td><td>Kigali, Rwanda</td><td>Feb 3, 2023</td><td>March 4, 2023</td>
-</tr>
-
-<tr>
-<td><a href="https://www.siam.org/conferences/cm/conference/sdm23"><s>SDM</td><td>Oct 7, 2022</td><td></td><td>April 27-29, 2023</td><td>Minnesota, US.</td><td></td><td></td>
-</tr>
-
-<tr>
-<td><a href="https://aaai-23.aaai.org/"><s>AAAI</td><td>Aug 15, 2022</td><td>Sep 27, 2022</td><td>Feb 7-14, 2023</td><td>Wachington, DC, US</td><td>Sep 23, 2022</td><td>Nov 18, 2022</td>
 </tr>
 
 <tr>
@@ -124,6 +122,7 @@ Association for the Advancement of Artificial Intelligence.
 
 | Year | Official Website |  Paper List | Deadline | Notification |
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
+| 2024 | | |2023-08-15| 2023-09-27 | 
 | 2023| [🔗](https://aaai.org/Conferences/AAAI-23/)|  | 2022-08-15| 2023-08-15|
 | 2022| [🔗](https://www.aies-conference.com/2022/) | [🔗](https://dblp.org/db/conf/aaai/aaai2022.html)| 2022-03-01| 2022-04-18 |
 | 2021| [🔗](https://www.aies-conference.com/2021/) | [🔗](https://dblp.org/db/conf/aaai/aaai2021.html)| 2021-01-31 | 2021-04-07 |
@@ -234,4 +233,7 @@ International Conference on Learning Representations.
 </div>
 
 ## Source
+* [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
+* [Best Computer Science Conferences for Machine Learning & Artificial intelligence](https://research.com/conference-rankings/computer-science/machine-learning)
+* [All CFPs for "machine learning"](https://easychair.org/cfp/topic.cgi?tid=401)
 * [dblp computer science bibliography ](https://dblp.uni-trier.de/)
