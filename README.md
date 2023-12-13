@@ -25,25 +25,43 @@ This project lists the Machine Learning and Data Mining related conferences with
 <tbody>
 
 <tr>
-<td><a href="https://cikm2023.github.io/">CIKM</td><td>June 2, 2023</td><td></td><td>Oct 21-25, 2023</td><td>Birmingham, UK</td><td></td><td></td>
-</tr>
-<tr>
-<td><a href="https://www.acml-conf.org/2023/"> ACML </td><td>June 23, 2023</td><td>Aug 11, 2023</td><td>Dec 1-4 ,2023</td><td>Shanghai, China</td><td>Sep 3, 2023</td><td>Sep 24, 2023</td>
-</tr>
-<tr>
-<td><a href="https://2023.emnlp.org/"> EMNLP </td><td>June 23, 2023</td><td>Aug 22, 2023</td><td>Dec 6-10 ,2023</td><td>Singapore</td><td></td><td></td>
+<td><a href="https://ijcai24.org/">IJCAI</td><td>Jan 17, 2024</td><td>Feb 22, 2024</td><td>Aug 3-9, 2024</td><td>Jeju Island, South Korea</td><td>Feb 5, 2024</td><td>March 11, 2024</td>
 </tr>
 
 <tr>
-<td><a href="https://www.cloud-conf.net/icdm2023/"> ICDM</td><td>July 1, 2023</td><td>Sep 1, 2023</td><td>Nov 11-14 ,2023</td><td>Istanbul, Turkey</td><td></td><td></td>
+<td><a href="https://icml.cc/Conferences/2024/">ICML</td><td>Feb 1, 2024</td><td>April, 2024</td><td>July 21-27, 2024</td><td>Vienna, Austria</td><td>Feb 15, 2024</td><td>March 27, 2024</td>
 </tr>
 
 <tr>
-<td><a href="https://aaai.org/aaai-conference/"> AAAI </td><td>Aug 15, 2023</td><td>Sep 27, 2023</td><td>Feb 20-27 ,2024</td><td>VANCOUVER, CANADA</td><td></td><td></td>
+<td><a href="https://kdd2024.kdd.org/">KDD</td><td>Feb 8, Aug 1, 2024</td><td>May, 2024</td><td>Aug 25-29, 2024</td><td>Barcelona, Spain</td><td></td><td></td>
 </tr>
 
 <tr>
-<td><a href="http://bigdataieee.org/BigData2023/index.html"> IEEE BigData </td><td>Sep 3, 2023</td><td>Oct 27, 2023</td><td>Dec 15-18, 2023</td><td>Sorrento, Italy</td><td></td><td></td>
+<td><a href="https://www.auai.org/uai2024">UAI</td><td>Feb 9, 2024</td><td>April 25, 2024</td><td>July 16-18, 2024</td><td> Barcelona, Spain</td><td>July 19, 2024</td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://iclr.cc/Conferences/2024"> <s>ICLR </s></td><td>Sep 28, 2023</td><td>Nov 10, 2023</td><td>May 7-11, 2024</td><td>Vienna, Austria</td><td>Oct 27, 2023</td><td>Dec 8, 2023</td>
+</tr>
+
+<tr>
+<td><a href="http://bigdataieee.org/BigData2023/index.html"> <s>IEEE BigData </s></td><td>Sep 3, 2023</td><td>Oct 27, 2023</td><td>Dec 15-18, 2023</td><td>Sorrento, Italy</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://aaai.org/aaai-conference/"> <s>AAAI </s></td><td>Aug 15, 2023</td><td>Sep 27, 2023</td><td>Feb 20-27 ,2024</td><td>VANCOUVER, CANADA</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://www.wsdm-conference.org/2023/"><s>WSDM</s></td><td>Aug 10, 2023</td><td>Oct 19, 2023</td><td>March 4- March 8, 2024</td><td>Mérida, México</td><td>Jan 15, 2024</td><td>Feb 1, 2024</td>
+</tr>
+
+<tr>
+<td><a href="https://www.cloud-conf.net/icdm2023/"> <s>ICDM</s></td><td>July 1, 2023</td><td>Sep 1, 2023</td><td>Nov 11-14 ,2023</td><td>Istanbul, Turkey</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://cikm2023.github.io/"><s>CIKM</s></td><td>June 2, 2023</td><td></td><td>Oct 21-25, 2023</td><td>Birmingham, UK</td><td></td><td></td>
 </tr>
 
 <tr>
@@ -60,11 +78,11 @@ This project lists the Machine Learning and Data Mining related conferences with
 </tr>
 
 <tr>
-<td><a href="https://ijcai-23.org/"><s>IJCAI</s></td><td>Jan 18, 2023</td><td>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
+<td><a href="https://icml.cc/Conferences/2023/"><s> ICML</td><td>Jan 26, 2023</td><td>April 22, 2023</td><td>July 23-29, 2023</td><td>Hawaii, USA</td><td>Feb 16, 2023</td><td>March 16, 2023</td>
 </tr>
 
 <tr>
-<td><a href="https://icml.cc/Conferences/2023/"><s> ICML</td><td>Jan 26, 2023</td><td>April 22, 2023</td><td>July 23-29, 2023</td><td>Hawaii, USA</td><td>Feb 16, 2023</td><td>March 16, 2023</td>
+<td><a href="https://ijcai-23.org/"><s>IJCAI</s></td><td>Jan 18, 2023</td><td>April 19, 2023</td><td>Aug 19-25, 2023</td><td>Macao, S.A.R</td><td>May 10, 2023</td><td>May 31, 2023</td>
 </tr>
 
 <tr>
@@ -160,12 +178,12 @@ International Conference on Information and Knowledge Management.
 
 <div align="center" style="overflow-x:auto;">
 
-| Year | Official Website |  Paper List | Deadline | Notification |
-|:----------:|:----------:|:-----------:|:----------:|:----------:|
-| 2023|  |  | | |
-| 2022| [🔗](https://www.cikm2022.org/)| [🔗](https://www.cikm2022.org/papers-posters)| | |
-| 2021|  | [🔗](https://www.cikm2021.org/accepted-papers)| | |
-| 2020|  | [🔗](https://www.cikm2020.org/index.html@p=1073.html)| | |
+| Year | Official Website |  Paper List | Deadline | Notification | Location|
+|:----------:|:----------:|:-----------:|:----------:|:----------:|:----------:|
+| 2023, 21-25 Oct| [🔗](https://uobevents.eventsair.com/cikm2023/) | [🔗](https://az659834.vo.msecnd.net/eventsairwesteuprod/production-uobevents-public/b11f094f1a6946f980322aab004e9a35) | | | Birmingham |
+| 2022| [🔗](https://www.cikm2022.org/)| [🔗](https://www.cikm2022.org/papers-posters)| | ||
+| 2021|  | [🔗](https://www.cikm2021.org/accepted-papers)| | ||
+| 2020|  | [🔗](https://www.cikm2020.org/index.html@p=1073.html)| | ||
 
 </div>
 
