@@ -25,19 +25,36 @@ This project lists the Machine Learning and Data Mining related conferences with
 <tbody>
 
 <tr>
-<td><a href="https://ijcai24.org/">IJCAI</td><td>Jan 17, 2024</td><td>Feb 22, 2024</td><td>Aug 3-9, 2024</td><td>Jeju Island, South Korea</td><td>Feb 5, 2024</td><td>March 11, 2024</td>
+<td><a href="https://aaai.org/aaai-conference/save-the-date-aaai-25/"> AAAI </td><td>Aug 7, 2024</td><td>Oct 14, 2024</td><td>Feb 27-May 2 ,2025</td><td>PHILADELPHIA, PENNSYLVANIA, USA</td><td></td><td></td>
 </tr>
 
 <tr>
-<td><a href="https://icml.cc/Conferences/2024/">ICML</td><td>Feb 1, 2024</td><td>April, 2024</td><td>July 21-27, 2024</td><td>Vienna, Austria</td><td>Feb 15, 2024</td><td>March 27, 2024</td>
+<td><a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/"> IEEE BigData </s></td><td>Sep 8, 2024</td><td>Oct 27, 2024</td><td>Dec 15-18, 2024</td><td>Washington DC, USA</td><td></td><td></td>
 </tr>
 
 <tr>
-<td><a href="https://kdd2024.kdd.org/">KDD</td><td>Feb 8, Aug 1, 2024</td><td>May, 2024</td><td>Aug 25-29, 2024</td><td>Barcelona, Spain</td><td></td><td></td>
+<td><a href="https://cikm2024.org/"><s>CIKM</td><td>May 13, 2024</td><td></td><td>Oct 21-25, 2024</td><td>Boise, Idaho, USA</td><td></td><td></td>
 </tr>
 
 <tr>
-<td><a href="https://www.auai.org/uai2024">UAI</td><td>Feb 9, 2024</td><td>April 25, 2024</td><td>July 16-18, 2024</td><td> Barcelona, Spain</td><td>July 19, 2024</td><td></td>
+<td><a href="https://nips.cc/Conferences/2024"> <s>NeurIPS</td> 
+<td>May 15, 2024</td><td>Sep 25, 2024</td><td>Dec 9-15, 2024</td><td> Vancouver, Canada. </td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://ijcai24.org/"><s>IJCAI</td><td>Jan 17, 2024</td><td>Feb 22, 2024</td><td>Aug 3-9, 2024</td><td>Jeju Island, South Korea</td><td>Feb 5, 2024</td><td>March 11, 2024</td>
+</tr>
+
+<tr>
+<td><a href="https://icml.cc/Conferences/2024/"><s>ICML</td><td>Feb 1, 2024</td><td>April, 2024</td><td>July 21-27, 2024</td><td>Vienna, Austria</td><td>Feb 15, 2024</td><td>March 27, 2024</td>
+</tr>
+
+<tr>
+<td><a href="https://kdd2024.kdd.org/"><s>KDD</td><td>Feb 8, Aug 1, 2024</td><td>May, 2024</td><td>Aug 25-29, 2024</td><td>Barcelona, Spain</td><td></td><td></td>
+</tr>
+
+<tr>
+<td><a href="https://www.auai.org/uai2024"><s>UAI</td><td>Feb 9, 2024</td><td>April 25, 2024</td><td>July 16-18, 2024</td><td> Barcelona, Spain</td><td>July 19, 2024</td><td></td>
 </tr>
 
 <tr>
