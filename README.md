@@ -2,7 +2,34 @@
 
 This project lists the Machine Learning and Data Mining related conferences with their important date and list of accepted papers.
 
-## Current Year and Next
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/khairulislam/ML-conferences)
+[![Visits Badge](https://badges.pufler.dev/visits/khairulislam/ML-conferences)](https://badges.pufler.dev/visits/khairulislam/ML-conferences)
+
+## Table of Contents
+- [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+  - [Recent Conferences](#recent-conferences)
+  - [Summary](#summary)
+  - [AI Conferences](#ai-conferences)
+    - [IJCAI](#ijcai)
+    - [AAAI](#aaai)
+  - [ML Conferences](#ml-conferences)
+    - [ICML](#icml)
+    - [NeurIPS](#neurips)
+    - [ICLR](#iclr)
+  - [Vision Conferences](#vision-conferences)
+    - [CVPR](#cvpr)
+    - [ICCV](#iccv)
+    - [ECCV](#eccv)
+  - [Data and Knowledge Conferences](#data-and-knowledge-conferences)
+    - [KDD](#kdd)
+    - [CIKM](#cikm)
+  - [Source Acknowledgement](#source-acknowledgement)
+
+## Recent Conferences
+<details> 
 
 <div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
 <table border="1">
@@ -111,8 +138,10 @@ This project lists the Machine Learning and Data Mining related conferences with
 </table>
 </div>
 
-## Summary
+</details>
 
+## Summary
+<details>
 <div align="center" style="overflow-x:auto;">
 
 | Conference | Submission | Notification | 2024 | 2023 | 2022 | 2021 | 2020 |
@@ -131,6 +160,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 | [ICRA](#ICRA) | ~September | ~January |   | [🔗](https://ieeexplore.ieee.org/xpl/conhome/10160211/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9811522/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9560720/proceeding) | [🔗](https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding) | 
 
 </div>
+</details>
 
 ## AI Conferences
 
@@ -143,14 +173,14 @@ International Joint Conferences on Artificial Intelligence Organization. [Past p
 |:----------:|:----------:|:-----------:|:----------:|:----------:|
 | 2024| [🔗](https://ijcai24.org/)| [🔗](https://ijcai24.org/main-track-accepted-papers/)| 2024-01-17| 2024-04-16|
 | 2023| [🔗](https://ijcai-23.org/)|  | 2023-01-18| 2023-04-19|
-| 2022|  | [🔗](https://ijcai-22.org/main-track-accepted-papers/)| 2022-01-14| 2022-04-20|
-| 2021|  | [🔗](https://ijcai-21.org/program-main-track/)| | |
-| 2020|  | [🔗](http://static.ijcai.org/2020-accepted_papers.html)| | |
-| 2019|  | [🔗](https://www.ijcai19.org/accepted-papers.html)| | |
-| 2018|  | [🔗](https://www.ijcai-18.org/accepted-papers/index.html)| | |
-| 2017|  | [🔗](https://ijcai-17.org/accepted-papers.html)| | |
-| 2016|  | [🔗](https://www.ijcai.org/proceedings/2016)| | |
-| 2015|  | [🔗](https://www.ijcai.org/Proceedings/2015)| | |
+| 2022| [🔗](https://ijcai-22.org/) | [🔗](https://ijcai-22.org/main-track-accepted-papers/)| 2022-01-14| 2022-04-20|
+| 2021| [🔗](https://ijcai-21.org/#) | [🔗](https://ijcai-21.org/program-main-track/)| | |
+| 2020| [🔗](https://ijcai20.org/)  | [🔗](http://static.ijcai.org/2020-accepted_papers.html)| | |
+| 2019| [🔗](https://ijcai19.org/) | [🔗](https://www.ijcai19.org/accepted-papers.html)| | |
+| 2018| [🔗](http://ijcai-18.org/) | [🔗](https://www.ijcai-18.org/accepted-papers/index.html)| | |
+| 2017| [🔗](http://ijcai-17.org/) | [🔗](https://ijcai-17.org/accepted-papers.html)| | |
+| 2016| [🔗](http://ijcai-16.org/) | [🔗](https://www.ijcai.org/proceedings/2016)| | |
+| 2015| [🔗](http://ijcai15.org/) | [🔗](https://www.ijcai.org/Proceedings/2015)| | |
 
 </div>
 
@@ -174,6 +204,87 @@ Association for the Advancement of Artificial Intelligence.
 | 2015| [🔗](https://aaai.org/conference/aaai/aaai15/) | [🔗](https://dblp.org/db/conf/aaai/aaai2015.html)| | |
 
 </div>
+
+## ML Conferences
+
+### [ICML](https://icml.cc/)
+
+International Conference on Machine Learning.
+
+<div align="center" style="overflow-x:auto;">
+
+| Year | Official Website |  Paper List | Deadline | Notification |
+|:----------:|:----------:|:-----------:|:----------:|:----------:|
+| 2024| [🔗](https://icml.cc/Conferences/2024)|  | 2024-02-01| 2024-05-01|
+| 2023| [🔗](https://icml.cc/Conferences/2023)| [🔗](https://icml.cc/Conferences/2023/Schedule) | 2023-01-26| |
+| 2022| [🔗](https://icml.cc/Conferences/2022)| [🔗](https://icml.cc/Conferences/2022/Schedule)| | |
+| 2021| [🔗](https://icml.cc/Conferences/2021)| [🔗](https://icml.cc/Conferences/2021/Schedule)| | |
+| 2020| [🔗](https://icml.cc/Conferences/2020)| [🔗](https://icml.cc/Conferences/2020/Schedule)| | |
+| 2019| [🔗](https://icml.cc/Conferences/2019)| [🔗](https://icml.cc/Conferences/2019/Schedule)| | |
+
+</div>
+
+### [NeurIPS](https://neurips.cc/)
+
+Conference on Neural Information Processing Systems. 
+[Official Collection](https://papers.nips.cc/) and [proceedings](https://proceedings.neurips.cc/).
+
+<div align="center" style="overflow-x:auto;">
+
+| Year | Official Website |  Paper List | Deadline | Notification |
+|:----------:|:----------:|:-----------:|:----------:|:----------:|
+| 2024| [🔗](https://neurips.cc/)|  | 2024-05-22| 2024-09-26|
+| 2023|  [🔗](https://neurips.cc/Conferences/2023) | [🔗](https://papers.nips.cc/paper_files/paper/2023) | 2022-05-17 | 2022-09-22 |
+| 2022| [🔗](https://nips.cc/Conferences/2022)| [🔗](https://nips.cc/Conferences/2022/Schedule)| 2022-05-19| 2022-09-14|
+| 2021| [🔗](https://neurips.cc/Conferences/2021) | [🔗](https://papers.nips.cc/paper/2021)| 2021-05-28 | 2021-09-28 |
+| 2020| [🔗](https://neurips.cc/Conferences/2020) | [🔗](https://papers.nips.cc/paper/2020)| 2020-06-05 | 2020-09-26 |
+| 2019| [🔗](https://neurips.cc/Conferences/2019) | [🔗](https://papers.nips.cc/paper/2019)| 2019-05-23 | 2019-09-04|
+| 2018| [🔗](https://neurips.cc/Conferences/2018) | [🔗](https://papers.nips.cc/paper/2018)| 2019-05-18 | 2019-09-05 |
+
+</div>
+
+### [ICLR](https://iclr.cc/)
+
+International Conference on Learning Representations.
+
+<div align="center" style="overflow-x:auto;">
+
+| Year | Official Website |  Paper List | Deadline | Notification |
+|:----------:|:----------:|:-----------:|:----------:|:----------:|
+| 2024| [🔗](https://iclr.cc/Conferences/2024)| [🔗](https://openreview.net/group?id=ICLR.cc/2024/Conference)| 2023-09-21| 2024-01-15|
+| 2023| [🔗](https://iclr.cc/Conferences/2023)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| 2022-09-28| 2023-01-21|
+| 2022| [🔗](https://iclr.cc/Conferences/2022)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
+| 2021| [🔗](https://iclr.cc/Conferences/2021)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
+| 2020| [🔗](https://iclr.cc/Conferences/2020)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
+
+</div>
+
+## Vision Conferences
+
+### CVPR
+
+Conference on Computer Vision and Pattern Recognition.
+
+<div align="center" style="overflow-x:auto;">
+
+| Year | Official Website |  Paper List | Deadline | Notification |
+|:----------:|:----------:|:-----------:|:----------:|:----------:|
+| 2024| [🔗](https://kdd2024.kdd.org/)|  | 2024-02-08| 2024-05-16|
+| 2023| [🔗](https://kdd.org/kdd2023/)| [🔗](https://kdd.org/kdd2023/research-track-papers-list/)| 2023-02-02| 2023-05-16|
+| 2022| [🔗](https://kdd.org/kdd2022/index.html)| [🔗](https://kdd.org/kdd2022/paperRT.html)| 2022-02-10| 2022-05-19|
+| 2021|  | [🔗](https://www.kdd.org/kdd2021/accepted-papers)| | |
+| 2020|  | [🔗](https://www.kdd.org/kdd2020/accepted-papers)| | |
+| 2019|  | [🔗](https://www.kdd.org/kdd2019/accepted-papers)| | |
+| 2018|  | [🔗](https://www.kdd.org/kdd2018/accepted-papers)| | |
+| 2017|  | [🔗](https://www.kdd.org/kdd2017/accepted-papers)| | |
+
+</div>
+
+### ICCV
+
+
+### ECCV
+
 
 ## Data and Knowledge Conferences
 ### [KDD](https://www.kdd.org/)
@@ -211,61 +322,8 @@ International Conference on Information and Knowledge Management.
 
 </div>
 
-## ML Conferences
 
-### [ICML](https://icml.cc/)
-
-International Conference on Machine Learning.
-
-<div align="center" style="overflow-x:auto;">
-
-| Year | Official Website |  Paper List | Deadline | Notification |
-|:----------:|:----------:|:-----------:|:----------:|:----------:|
-| 2024| [🔗](https://icml.cc/Conferences/2024)|  | 2024-02-01| 2024-05-01|
-| 2023| [🔗](https://icml.cc/Conferences/2023)|  | 2023-01-26| |
-| 2022| [🔗](https://icml.cc/Conferences/2022)| [🔗](https://icml.cc/Conferences/2022/Schedule)| | |
-| 2021| [🔗](https://icml.cc/Conferences/2021)| [🔗](https://icml.cc/Conferences/2021/Schedule)| | |
-| 2020| [🔗](https://icml.cc/Conferences/2020)| [🔗](https://icml.cc/Conferences/2020/Schedule)| | |
-| 2019| [🔗](https://icml.cc/Conferences/2019)| [🔗](https://icml.cc/Conferences/2019/Schedule)| | |
-
-</div>
-
-### [NeurIPS](https://neurips.cc/)
-
-Conference on Neural Information Processing Systems. 
-[Official Collection](https://papers.nips.cc/) and [proceedings](https://proceedings.neurips.cc/).
-
-<div align="center" style="overflow-x:auto;">
-
-| Year | Official Website |  Paper List | Deadline | Notification |
-|:----------:|:----------:|:-----------:|:----------:|:----------:|
-| 2024| [🔗](https://neurips.cc/)|  | 2024-05-22| 2024-09-26|
-| 2023|  [🔗](https://neurips.cc/Conferences/2023) | | 2022-05-17 | 2022-09-22 |
-| 2022| [🔗](https://nips.cc/Conferences/2022)| [🔗](https://nips.cc/Conferences/2022/Schedule)| 2022-05-19| 2022-09-14|
-| 2021| [🔗](https://neurips.cc/Conferences/2021) | [🔗](https://papers.nips.cc/paper/2021)| 2021-05-28 | 2021-09-28 |
-| 2020| [🔗](https://neurips.cc/Conferences/2020) | [🔗](https://papers.nips.cc/paper/2020)| 2020-06-05 | 2020-09-26 |
-| 2019| [🔗](https://neurips.cc/Conferences/2019) | [🔗](https://papers.nips.cc/paper/2019)| 2019-05-23 | 2019-09-04|
-| 2018| [🔗](https://neurips.cc/Conferences/2018) | [🔗](https://papers.nips.cc/paper/2018)| 2019-05-18 | 2019-09-05 |
-
-</div>
-
-### [ICLR](https://iclr.cc/)
-
-International Conference on Learning Representations.
-
-<div align="center" style="overflow-x:auto;">
-
-| Year | Official Website |  Paper List | Deadline | Notification |
-|:----------:|:----------:|:-----------:|:----------:|:----------:|
-| 2024| [🔗](https://iclr.cc/Conferences/2024)| [🔗](https://openreview.net/group?id=ICLR.cc/2024/Conference)| 2023-09-21| 2024-01-15|
-| 2023| [🔗](https://iclr.cc/Conferences/2023)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| 2022-09-28| 2023-01-21|
-| 2022| [🔗](https://iclr.cc/Conferences/2022)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
-| 2021| [🔗](https://iclr.cc/Conferences/2021)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
-| 2020| [🔗](https://iclr.cc/Conferences/2020)| [🔗](https://openreview.net/group?id=ICLR.cc/2020/Conference)| | |
-
-</div>
-
-## Source
+## Source Acknowledgement
 * [Conferences' accepted paper lists](https://github.com/Lionelsy/Conference-Accepted-Paper-List)
 * [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
 * [Best Computer Science Conferences for Machine Learning & Artificial intelligence](https://research.com/conference-rankings/computer-science/machine-learning)
