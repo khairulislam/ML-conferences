@@ -1,0 +1,32 @@
+
+format: jb-book
+root: intro
+parts:
+  - caption: AI & ML
+    chapters:
+    - file: pages/ICML
+    - file: pages/NeurIPS
+    - file: pages/AAAI
+    - file: pages/IJCAI
+  - caption: Data Mining
+    chapters:
+    - file: pages/KDD
+    - file: pages/CIKM
+    - file: pages/PAKDD
+  - caption: Vision
+    chapters:
+    - file: pages/CVPR
+    - file: pages/ECCV
+    - file: pages/ICCV
+    - file: pages/MICCAI
+  - caption: NLP
+    chapters:
+    - file: pages/ACL
+    - file: pages/EMNLP
+    - file: pages/NAACL
+    - file: pages/COLING
+  - caption: Software Engineering
+    chapters:
+    - file: pages/ICSE
+    - file: pages/ASE
+    - file: pages/ESEM

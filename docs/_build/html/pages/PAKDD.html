@@ -1,0 +1,578 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>PAKDD</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'pages/PAKDD';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="CVPR" href="CVPR.html" />
+    <link rel="prev" title="CIKM" href="CIKM.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    <p class="title logo__title"></p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Machine Learning Conferences
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">AI &amp; ML</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="ICML.html">ICML</a></li>
+<li class="toctree-l1"><a class="reference internal" href="NeurIPS.html">NeurIPS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AAAI.html">AAAI</a></li>
+<li class="toctree-l1"><a class="reference internal" href="IJCAI.html">IJCAI</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Data Mining</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="KDD.html">KDD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CIKM.html">CIKM</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">PAKDD</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Vision</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="CVPR.html">CVPR</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ECCV.html">ECCV</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ICCV.html">ICCV</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MICCAI.html">MICCAI</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">NLP</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="ACL.html">ACL</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EMNLP.html">EMNLP</a></li>
+<li class="toctree-l1"><a class="reference internal" href="NAACL.html">NAACL</a></li>
+<li class="toctree-l1"><a class="reference internal" href="COLING.html">COLING</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Software Engineering</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="ICSE.html">ICSE</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ASE.html">ASE</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ESEM.html">ESEM</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/khairulislam/ML-conferences" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/khairulislam/ML-conferences/issues/new?title=Issue%20on%20page%20%2Fpages/PAKDD.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/pages/PAKDD.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>PAKDD</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="pakdd">
+<h1>PAKDD<a class="headerlink" href="#pakdd" title="Permalink to this heading">#</a></h1>
+<p>Pacific-Asia Conference on Knowledge Discovery and Data Mining. <a class="reference external" href="http://dblp.uni-trier.de/db/conf/pakdd/index.html">[DBLP]</a>.</p>
+<div align="center" style="overflow-x:auto;">
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="text-left head"><p>Year</p></th>
+<th class="text-left head"><p>When</p></th>
+<th class="text-left head"><p>Where</p></th>
+<th class="text-left head"><p>Deadline</p></th>
+<th class="text-center head"><p>Homepage</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-left"><p>2024</p></td>
+<td class="text-left"><p>May 7, 2024 - May 10, 2024</p></td>
+<td class="text-left"><p>Taipei, Taiwan</p></td>
+<td class="text-left"><p>Nov 29, 2023</p></td>
+<td class="text-center"><p><a class="reference external" href="https://pakdd2024.org/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2023</p></td>
+<td class="text-left"><p>May 25, 2023 - May 28, 2023</p></td>
+<td class="text-left"><p>Osaka, Japan</p></td>
+<td class="text-left"><p>Dec 7, 2022</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2023.org/cfp">🔗</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>2021</p></td>
+<td class="text-left"><p>May 11, 2021 - May 14, 2021</p></td>
+<td class="text-left"><p>Delhi, India</p></td>
+<td class="text-left"><p>Nov 30, 2020 (Nov 23, 2020)</p></td>
+<td class="text-center"><p><a class="reference external" href="https://pakdd2021.org/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2019</p></td>
+<td class="text-left"><p>Apr 14, 2019 - Apr 17, 2019</p></td>
+<td class="text-left"><p>Macau, China</p></td>
+<td class="text-left"><p>Oct 10, 2018</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2019.medmeeting.org/Content/92888">🔗</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>2017</p></td>
+<td class="text-left"><p>May 23, 2017 - May 26, 2017</p></td>
+<td class="text-left"><p>Jeju Island, Korea</p></td>
+<td class="text-left"><p>Oct 30, 2016</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2017.pakdd.org/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2015</p></td>
+<td class="text-left"><p>May 19, 2015 - May 22, 2015</p></td>
+<td class="text-left"><p>Ho Chi Minh, Vietnam</p></td>
+<td class="text-left"><p>Nov 28, 2014</p></td>
+<td class="text-center"><p><a class="reference external" href="http://www.pakdd2015.jvn.edu.vn/">🔗</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>2014</p></td>
+<td class="text-left"><p>May 13, 2014 - May 16, 2014</p></td>
+<td class="text-left"><p>Tainan, Taiwan</p></td>
+<td class="text-left"><p>Oct 8, 2013</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2014.pakdd.org/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2013</p></td>
+<td class="text-left"><p>Apr 14, 2013 - Apr 17, 2013</p></td>
+<td class="text-left"><p>Gold Coast, Australia</p></td>
+<td class="text-left"><p>Oct 15, 2012</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2013.pakdd.org">🔗</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>2012</p></td>
+<td class="text-left"><p>May 29, 2012 - Jun 1, 2012</p></td>
+<td class="text-left"><p>Malaysia</p></td>
+<td class="text-left"><p>Oct 2, 2011 (Sep 25, 2011)</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2012.pakdd.org/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2011</p></td>
+<td class="text-left"><p>May 24, 2011 - May 27, 2011</p></td>
+<td class="text-left"><p>Shenzhen,China</p></td>
+<td class="text-left"><p>Oct 10, 2010 (Oct 3, 2010)</p></td>
+<td class="text-center"><p><a class="reference external" href="http://pakdd2011.pakdd.org/">🔗</a></p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>2010</p></td>
+<td class="text-left"><p>Jun 21, 2010 - Jun 24, 2010</p></td>
+<td class="text-left"><p>Hyderabad, India</p></td>
+<td class="text-left"><p>Nov 30, 2009</p></td>
+<td class="text-center"><p><a class="reference external" href="http://www.iiit.ac.in/pakdd2010/">🔗</a></p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>2008</p></td>
+<td class="text-left"><p>May 20, 2008 - May 23, 2008</p></td>
+<td class="text-left"><p>Osaka, Japan</p></td>
+<td class="text-left"><p>Sep 23, 2007</p></td>
+<td class="text-center"><p><a class="reference external" href="http://www.ar.sanken.osaka-u.ac.jp/pakdd2008/index.html">🔗</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./pages"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="CIKM.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">CIKM</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="CVPR.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">CVPR</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Md. Khairul Islam
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2024.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
