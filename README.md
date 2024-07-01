@@ -37,12 +37,8 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-ICSE | Apr 14, 2024 - Apr 20, 2024 | Lisbon | Aug 1, 2023 | [🔗](https://conf.researchr.org/home/icse-2024)
-AAAI | Feb 20, 2024 - Feb 27, 2024 | Vancouver, Canada | Aug 15, 2023 (Aug 8, 2023) | [🔗](https://aaai.org/aaai-conference/)
-CVPR | Jun 17, 2024 - Jun 21, 2024 | Seattle, USA | Nov 10, 2023 (Nov 3, 2023) | [🔗](https://cvpr.thecvf.com/Conferences/2024)
-PAKDD | May 7, 2024 - May 10, 2024 | Taipei, Taiwan | Nov 29, 2023 | [🔗](https://pakdd2024.org/)
-IJCAI | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
 ICML | Jul 21, 2024 - Jul 27, 2024 | Vienna, Austria | Feb 1, 2024 | [🔗](https://icml.cc/)
+IJCAI | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
 KDD | Aug 25, 2024 - Aug 29, 2024 | Barcelona, Spain | Feb 8, 2024 (Feb 1, 2024) | [🔗](https://kdd2024.kdd.org/)
 ACL | Aug 11, 2024 - Aug 16, 2024 | Bangkok, Thailand | Feb 15, 2024 | [🔗](https://2024.aclweb.org/)
 ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
@@ -51,6 +47,9 @@ CIKM | Oct 21, 2024 - Oct 25, 2024 | Boise, ID, USA  | May 20, 2024 (May 13, 202
 NeurIPS | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15, 2024) | [🔗](https://neurips.cc/Conferences/2024)
 ASE | Sep 29, 2024 - Oct 4, 2024 | Sacramento United States  | Jun 7, 2024 (May 31, 2024) | [🔗](https://conf.researchr.org/home/ase-2024)
 COLING | Jan 19, 2025 - Jan 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org)
+AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/)
+<!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
+<!-- CVPR | Jun 17, 2025 - Jun 21, 2025 |  | Nov 10, 2024 (Nov 3, 2024) | [🔗](https://cvpr.thecvf.com/Conferences/2025) -->
 </div>
 
 </details>
@@ -91,14 +90,13 @@ Neural Information Processing Systems. [\[DBLP\]](http://dblp.uni-trier.de/db/co
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
 2024 | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15, 2024) | [🔗](https://neurips.cc/Conferences/2024)
-2023 | Dec 10, 2023 - Dec 16, 2023 | Virtual | May 17, 2023 (May 11, 2023) | [🔗](https://nips.cc/Conferences/2023)
-2019 | Dec 10, 2019 - Dec 12, 2019 | Vancouver, Canada | May 23, 2019 (May 16, 2019) | [🔗](https://nips.cc)
-2018 | Dec 3, 2018 - Dec 8, 2018 | MontrÃ©al, CANADA | TBD | [🔗](https://nips.cc/Conferences/2018)
+2023 | Dec 10, 2023 - Dec 16, 2023 | New Orleans, USA | May 17, 2023 (May 11, 2023) | [🔗](https://nips.cc/Conferences/2023)
+2022 | Nov 28, 2022 - Dec 9, 2022 | New Orleans, USA | May 19, 2022 (May 19, 2022) | [🔗](https://neurips.cc/Conferences/2022)
+2021 | Dec 6, 2021 - Dec 14, 2021 | Virtual | May 28, 2021 (May 21, 2021) | [🔗](https://neurips.cc/Conferences/2021)
+2020 | Dec 6, 2020 - Dec 12, 2020 | Virtual | Jun 5, 2020 (May 27, 2020) | [🔗](https://neurips.cc/Conferences/2020)
+2019 | Dec 10, 2019 - Dec 12, 2019 | Vancouver, Canada | May 23, 2019 (May 16, 2019) | [🔗](https://neurips.cc/Conferences/2019)
+2018 | Dec 3, 2018 - Dec 8, 2018 | Montreal, CANADA | May 18, 2018 | [🔗](https://nips.cc/Conferences/2018)
 2017 | Dec 4, 2017 - Dec 9, 2017 | Long Beach, CA, USA | May 19, 2017 | [🔗](https://nips.cc/Conferences/2017)
-2012 | Dec 3, 2012 - Dec 6, 2012 | Lake Tahoe, Nevada, USA | Jun 1, 2012 | [🔗](http://nips.cc/Conferences/2012/)
-2011 | Dec 12, 2011 - Dec 15, 2011 | Granada, Spain | Jun 2, 2011 | [🔗](http://nips.cc/Conferences/2011/)
-2010 | Dec 6, 2010 - Dec 9, 2010 | Vancouver, B.C., Canada | Jun 3, 2010 | [🔗](http://nips.cc/Conferences/2010/)
-2008 | Dec 12, 2008 - Dec 13, 2008 | Vancouver, Canada | Jun 6, 2008 | [🔗](http://nips.cc/Conferences/2008/)
 </div>
 
 </details>
