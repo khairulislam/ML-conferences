@@ -37,24 +37,24 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-ICML | Jul 21, 2024 - Jul 27, 2024 | Vienna, Austria | Feb 1, 2024 | [🔗](https://icml.cc/)
-IJCAI | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
-KDD | Aug 25, 2024 - Aug 29, 2024 | Barcelona, Spain | Feb 8, 2024 (Feb 1, 2024) | [🔗](https://kdd2024.kdd.org/)
-ACL | Aug 11, 2024 - Aug 16, 2024 | Bangkok, Thailand | Feb 15, 2024 | [🔗](https://2024.aclweb.org/)
-ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
+KDD | TBD (Aug 3, 2025 - Aug 7, 2025) | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)
+AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/)
+IEEE Big Data | Dec 15, 2024 - Dec 18, 2024 | Washington DC, USA | Sep 8, 2024 | [](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
+COLING | Jan 19, 2025 - Jan 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org)
+ICML | Jul 11, 2025 - Jul 19, 2024 | Vancouver, BC, Canada  | TBD (Feb 1, 2025) | [🔗](https://icml.cc/)
+IJCAI | TBD (Aug 3, 2025 - Aug 9, 2025) | Montreal, Canada | TBD (Jan 17, 2025) | 
+CVPR | Jun 10, 2025 - Jun 17, 2025 | Nashville, Tennessee | TDB | 
+ICCV | Oct 19, 2025 - Oct 25, 2025 | Honolulu, Hawaii | TDB | 
+ACL | Jul 27, 2025 - Aug 11, 2025 | Vienna, Austria | TBD (Feb, 2025) | [🔗](https://2025.aclweb.org/)
+<!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
+<!-- ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
 MICCAI | Oct 6, 2024 - Oct 10, 2024 | MARRAKESH / MOROCCO | Mar 7, 2024 (Feb 22, 2024) | [🔗](https://conferences.miccai.org/2024/en/)
 CIKM | Oct 21, 2024 - Oct 25, 2024 | Boise, ID, USA  | May 20, 2024 (May 13, 2024) | [🔗](http://cikm2024.org)
-NeurIPS | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15, 2024) | [🔗](https://neurips.cc/Conferences/2024)
+NeurIPS | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15, 2024) | [🔗](https://neurips.cc/Conferences/2024) 
 ASE | Sep 29, 2024 - Oct 4, 2024 | Sacramento United States  | Jun 7, 2024 (May 31, 2024) | [🔗](https://conf.researchr.org/home/ase-2024)
-COLING | Jan 19, 2025 - Jan 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org)
-AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/)
-<!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
-<!-- CVPR | Jun 17, 2025 - Jun 21, 2025 |  | Nov 10, 2024 (Nov 3, 2024) | [🔗](https://cvpr.thecvf.com/Conferences/2025) -->
+-->
 </div>
-
 </details>
-
-
 
 ## AI & ML
 ### ICML
@@ -281,6 +281,7 @@ International Conference on Computer Vision. [\[DBLP\]](http://dblp.uni-trier.de
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Oct 19, 2025 - Oct 25, 2025 | Honolulu, Hawaii | TBD | [🔗](https://www.thecvf.com/)
 2023 | Oct 2, 2023 - Oct 6, 2023 | Paris, France | Mar 8, 2023 | [🔗](https://iccv2023.thecvf.com/)
 2021 | Oct 11, 2021 - Oct 17, 2021 | Montreal, Canada | Mar 17, 2021 (Mar 10, 2021) | [🔗](http://iccv2021.thecvf.com)
 2019 | Oct 27, 2019 - Nov 3, 2019 | Seoul, Korea | Mar 1, 2019 | [🔗](http://iccv2019.thecvf.com/submission/timeline)
@@ -348,6 +349,7 @@ Empirical Methods in Natural Language Processing. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2024 | Nov 12, 2024 - Nov 16, 2024 | Miami, Florida | Jun 15, 2024 | [🔗](https://2024.emnlp.org/)
 2023 | Dec 6, 2023 - Dec 10, 2023 | Singapore | Jun 23, 2023 (Jun 16, 2023) | [🔗](https://2023.emnlp.org/)
 2022 | Dec 7, 2022 - Dec 11, 2022 | Abu Dhabi, UAE | Jun 24, 2022 (Jun 17, 2022) | [🔗](https://2022.emnlp.org/)
 2021 | Nov 7, 2021 - Nov 11, 2021 | Punta Cana, Dominican Republic | May 10, 2021 | [🔗](https://2021.emnlp.org)
@@ -372,6 +374,7 @@ North American Chapter of the Association for Computational Linguistics. [\[DBLP
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2024 | Jun 16, 2024 - Jun 21, 2024 | Mexico City, Mexico | Feb 20, 2024 | [🔗](https://2024.naacl.org/)
 2022 | Jul 10, 2022 - Jul 15, 2022 | Seattle, WA, USA | Jan 15, 2022 | [🔗](https://2022.naacl.org/calls/papers/)
 2016 | Jun 12, 2016 - Jun 17, 2016 | San Diego | Jan 6, 2016 | [🔗](http://naacl.org/naacl-hlt-2016/)
 2015 | May 31, 2015 - Jun 5, 2015 | Denver, Colorado | Dec 4, 2014 | [🔗](http://nlp.eecs.umich.edu/~naacl15/)
@@ -460,24 +463,30 @@ Year|When|Where|Deadline|Homepage
 
 ### ESEM
 
-Empirical Methods in Natural Language Processing. [\[DBLP\]](http://dblp.uni-trier.de/db/conf/emnlp/index.html).
+Empirical Software Engineering and Measurement (ESEM). [\[DBLP\]](https://dblp.uni-trier.de/db/conf/esem/index.html).
 
 <details><div align="center" style="overflow-x:auto;">
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-2023 | Dec 6, 2023 - Dec 10, 2023 | Singapore | Jun 23, 2023 (Jun 16, 2023) | [🔗](https://2023.emnlp.org/)
-2022 | Dec 7, 2022 - Dec 11, 2022 | Abu Dhabi, UAE | Jun 24, 2022 (Jun 17, 2022) | [🔗](https://2022.emnlp.org/)
-2021 | Nov 7, 2021 - Nov 11, 2021 | Punta Cana, Dominican Republic | May 10, 2021 | [🔗](https://2021.emnlp.org)
-2020 | Nov 16, 2020 - Nov 20, 2020 | Online | Jun 1, 2020 | [🔗](https://2020.emnlp.org)
-2015 | Sep 17, 2015 - Sep 21, 2015 | Lisbon, Portugal | May 31, 2015 | [🔗](http://www.emnlp2015.org)
-2014 | Oct 25, 2014 - Oct 29, 2014 | Doha, Qatar | Jun 2, 2014 | [🔗](http://emnlp2014.org/)
-2013 | Oct 18, 2013 - Oct 21, 2013 | Seattle, Washington | Jul 5, 2013 | [🔗](http://hum.csse.unimelb.edu.au/emnlp2013/)
-2012 | Jul 12, 2012 - Jul 14, 2012 | Jeju, South Korea | Mar 28, 2012 | [🔗](http://emnlp-conll2012.unige.ch/)
-2011 | Jul 27, 2011 - Jul 31, 2011 | Edinburgh, Scotland, UK | Mar 30, 2011 | [🔗](http://conferences.inf.ed.ac.uk/emnlp2011/)
-2010 | Oct 9, 2010 - Oct 11, 2010 | MIT, Cambridge, MA, USA | Jun 25, 2010 (Jun 18, 2010) | [🔗](http://www.lsi.upc.edu/events/emnlp2010/)
-2009 | Aug 6, 2009 - Aug 7, 2009 | Singapore, Singapore | May 1, 2009 | [🔗](http://conferences.inf.ed.ac.uk/emnlp09/)
-2008 | Oct 25, 2008 - Oct 27, 2008 | Waikiki, Honolulu, Hawaii | Jul 3, 2008 | [🔗](http://conferences.inf.ed.ac.uk/emnlp08/ )
+2023 | Oct 23, 2023 - Oct 27, 2023 | New Orleans, Louisiana, United States | May 2, 2023 (Apr 14, 2023) | [🔗](https://conf.researchr.org/home/esem-2023)
+2022 | Sep 19, 2022 - Sep 22, 2022 | Helsinki | May 2, 2022 (Apr 25, 2022) | [🔗](https://conf.researchr.org/home/esem-2022)
+2021 | Oct 11, 2021 - Oct 15, 2021 | See note on the website | May 15, 2021 (May 8, 2021) | [🔗](https://conf.researchr.org/home/esem-2021)
+2020 | Oct 8, 2020 - Oct 8, 2020 | See announcement on COVID19 on the web | May 25, 2020 | [🔗](https://esem2020.uniba.it)
+2019 | Sep 16, 2019 - Sep 20, 2019 | Porto de Galinhas, BR | Apr 25, 2019 (Apr 18, 2019) | [🔗](http://eseiw2019.com/esem/)
+2018 | Oct 11, 2018 - Oct 12, 2018 | Oulu, Finland | May 27, 2018 (May 18, 2018) | [🔗](http://eseiw2018.wixsite.com/esem2018/call-for-papers)
+2017 | Nov 9, 2017 - Nov 10, 2017 | Toronto | Apr 7, 2017 (Mar 31, 2017) | [🔗](http://www.scs.ryerson.ca/eseiw2017/ESEM/index.html)
+2016 | Sep 5, 2016 - Sep 9, 2016 | Ciudad Real, ES | Mar 14, 2016 (Mar 7, 2016) | [🔗](http://alarcos.esi.uclm.es/eseiw2016/importantdates.html)
+2015 | Oct 22, 2015 - Oct 23, 2015 | Beijing, China | Apr 22, 2015 | [🔗](http://eseiw.iscas.ac.cn/eseiw2015/esem/index.html)
+2014 | Sep 18, 2014 - Sep 19, 2014 | Torino, Italy | Mar 17, 2014 (Mar 10, 2014) | [🔗](http://www.esem-conferences.org/)
+2013 | Oct 10, 2013 - Oct 11, 2013 | Baltimore, Maryland, USA | Mar 30, 2013 (Mar 23, 2013) | [🔗](http://www.esem-conferences.org)
+2012 | Sep 20, 2012 - Sep 21, 2012 | Lund, Sweden | Mar 11, 2012 (Mar 4, 2012) | [🔗](http://esem.cs.lth.se/esem2012/index.shtml)
+2011 | Sep 22, 2011 - Sep 23, 2011 | Banff, Canada | Mar 15, 2011 | [🔗](http://esem.cpsc.ucalgary.ca/esem2011)
+2010 | Sep 16, 2010 - Sep 17, 2010 | Bolzano-Bozen, Italy | Mar 1, 2010 | [🔗](http://esem2010.case.unibz.it/index.html)
+2009 | Oct 15, 2009 - Oct 16, 2009 | Lake Buena Vista, FL, USA | Mar 1, 2009 | [🔗](http://www.csc2.ncsu.edu/conferences/esem/)
+2008 | Oct 9, 2008 - Oct 10, 2008 | Kaiserslautern, Germany | Mar 1, 2008 | [🔗](http://www.esem-conferences.org/)
+2007 | Sep 20, 2007 - Sep 21, 2007 | Madrid, Spain | TBD | [🔗](http:///is.ls.fi.upm.es/eseiw07/esem07/index.html)
+</div>
 </div>
 
 </details>
