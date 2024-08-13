@@ -33,7 +33,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 	- [ESEM](#esem)
 ## Recent Conferences
 
-<details><div align="center" style="overflow-x:auto;">
+<div align="center" style="overflow-x:auto;">
 
 Conference|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
@@ -54,7 +54,6 @@ NeurIPS | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15,
 ASE | Sep 29, 2024 - Oct 4, 2024 | Sacramento United States  | Jun 7, 2024 (May 31, 2024) | [🔗](https://conf.researchr.org/home/ase-2024)
 -->
 </div>
-</details>
 
 ## AI & ML
 ### ICML
