@@ -6,6 +6,7 @@ Computer Vision and Pattern Recognition. [\[DBLP\]](http://dblp.uni-trier.de/db/
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)|
 2024 | Jun 17, 2024 - Jun 21, 2024 | Seattle, USA | Nov 10, 2023 (Nov 3, 2023) | [🔗](https://cvpr.thecvf.com/Conferences/2024)
 2023 | Jun 18, 2023 - Jun 22, 2023 | Vancouver, Canada | Nov 11, 2022 | [🔗](https://cvpr.thecvf.com/Conferences/2023)
 2021 | Jun 19, 2021 - Jun 25, 2021 | Virtual | Nov 16, 2020 (Nov 9, 2020) | [🔗](http://cvpr2021.thecvf.com/)

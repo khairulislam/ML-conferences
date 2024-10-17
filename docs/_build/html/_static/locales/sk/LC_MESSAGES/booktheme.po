@@ -8,23 +8,29 @@ msgstr ""
 "Language: sk\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "suggest edit"
-msgstr "navrhnúť úpravu"
-
-msgid "Last updated on"
-msgstr "Posledná aktualizácia dňa"
-
-msgid "Edit this page"
-msgstr "Upraviť túto stránku"
-
-msgid "Launch"
-msgstr "Spustiť"
+msgid "Copyright"
+msgstr "Autorské práva"
 
 msgid "Print to PDF"
 msgstr "Tlač do PDF"
 
+msgid "Edit this page"
+msgstr "Upraviť túto stránku"
+
+msgid "suggest edit"
+msgstr "navrhnúť úpravu"
+
+msgid "Sphinx Book Theme"
+msgstr "Téma knihy Sfinga"
+
 msgid "open issue"
 msgstr "otvorené vydanie"
+
+msgid "By the"
+msgstr "Podľa"
+
+msgid "Theme by the"
+msgstr "Téma od"
 
 msgid "Download notebook file"
 msgstr "Stiahnite si zošit"
@@ -32,44 +38,44 @@ msgstr "Stiahnite si zošit"
 msgid "Toggle navigation"
 msgstr "Prepnúť navigáciu"
 
-msgid "Source repository"
-msgstr "Zdrojové úložisko"
-
-msgid "By the"
-msgstr "Podľa"
-
 msgid "next page"
 msgstr "ďalšia strana"
-
-msgid "repository"
-msgstr "Úložisko"
-
-msgid "Sphinx Book Theme"
-msgstr "Téma knihy Sfinga"
-
-msgid "Download source file"
-msgstr "Stiahnite si zdrojový súbor"
 
 msgid "Contents"
 msgstr "Obsah"
 
-msgid "By"
-msgstr "Autor:"
+msgid "Source repository"
+msgstr "Zdrojové úložisko"
 
-msgid "Copyright"
-msgstr "Autorské práva"
+msgid "Search the docs ..."
+msgstr "Hľadať v dokumentoch ..."
 
-msgid "Fullscreen mode"
-msgstr "Režim celej obrazovky"
+msgid "Last updated on"
+msgstr "Posledná aktualizácia dňa"
 
-msgid "Open an issue"
-msgstr "Otvorte problém"
-
-msgid "previous page"
-msgstr "predchádzajúca strana"
+msgid "Search this book..."
+msgstr "Hľadať v tejto knihe ..."
 
 msgid "Download this page"
 msgstr "Stiahnite si túto stránku"
 
-msgid "Theme by the"
-msgstr "Téma od"
+msgid "Launch"
+msgstr "Spustiť"
+
+msgid "Download source file"
+msgstr "Stiahnite si zdrojový súbor"
+
+msgid "previous page"
+msgstr "predchádzajúca strana"
+
+msgid "By"
+msgstr "Autor:"
+
+msgid "Open an issue"
+msgstr "Otvorte problém"
+
+msgid "Fullscreen mode"
+msgstr "Režim celej obrazovky"
+
+msgid "repository"
+msgstr "Úložisko"

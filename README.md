@@ -51,6 +51,7 @@ ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://202
 IEEE Big Data | Dec 15 - 18, 2024 | Washington DC, USA | Sep 8, 2024 | [🔗](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) | Closed |
 COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
 AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |  Closed |
+ICLR | Apr 24-28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/CallForPapers) | Closed |
 KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)|  Closed |
 <!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
 <!-- ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)

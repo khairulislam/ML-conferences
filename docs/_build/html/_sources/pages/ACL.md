@@ -6,6 +6,7 @@ Meeting of the Association for Computational Linguistics. [\[DBLP\]](http://dblp
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) |
 2024 | Aug 11, 2024 - Aug 16, 2024 | Bangkok, Thailand | Feb 15, 2024 | [🔗](https://2024.aclweb.org/)
 2023 | Jul 9, 2023 - Jul 14, 2023 | Toronto, Canada | Jan 20, 2023 (Jan 13, 2023) | [🔗](https://2023.aclweb.org)
 2022 | May 22, 2022 - May 27, 2022 | Dublin, Ireland | Nov 15, 2021 | [🔗](https://www.2022.aclweb.org/)

@@ -8,23 +8,29 @@ msgstr ""
 "Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "suggest edit"
-msgstr "предложи редактиране"
-
-msgid "Last updated on"
-msgstr "Последна актуализация на"
-
-msgid "Edit this page"
-msgstr "Редактирайте тази страница"
-
-msgid "Launch"
-msgstr "Стартиране"
+msgid "Copyright"
+msgstr "Авторско право"
 
 msgid "Print to PDF"
 msgstr "Печат в PDF"
 
+msgid "Edit this page"
+msgstr "Редактирайте тази страница"
+
+msgid "suggest edit"
+msgstr "предложи редактиране"
+
+msgid "Sphinx Book Theme"
+msgstr "Тема на книгата Sphinx"
+
 msgid "open issue"
 msgstr "отворен брой"
+
+msgid "By the"
+msgstr "По"
+
+msgid "Theme by the"
+msgstr "Тема от"
 
 msgid "Download notebook file"
 msgstr "Изтеглете файла на бележника"
@@ -32,44 +38,44 @@ msgstr "Изтеглете файла на бележника"
 msgid "Toggle navigation"
 msgstr "Превключване на навигацията"
 
-msgid "Source repository"
-msgstr "Хранилище на източника"
-
-msgid "By the"
-msgstr "По"
-
 msgid "next page"
 msgstr "Следваща страница"
-
-msgid "repository"
-msgstr "хранилище"
-
-msgid "Sphinx Book Theme"
-msgstr "Тема на книгата Sphinx"
-
-msgid "Download source file"
-msgstr "Изтеглете изходния файл"
 
 msgid "Contents"
 msgstr "Съдържание"
 
-msgid "By"
-msgstr "От"
+msgid "Source repository"
+msgstr "Хранилище на източника"
 
-msgid "Copyright"
-msgstr "Авторско право"
+msgid "Search the docs ..."
+msgstr "Търсене в документите ..."
 
-msgid "Fullscreen mode"
-msgstr "Режим на цял екран"
+msgid "Last updated on"
+msgstr "Последна актуализация на"
 
-msgid "Open an issue"
-msgstr "Отворете проблем"
-
-msgid "previous page"
-msgstr "предишна страница"
+msgid "Search this book..."
+msgstr "Търсене в тази книга ..."
 
 msgid "Download this page"
 msgstr "Изтеглете тази страница"
 
-msgid "Theme by the"
-msgstr "Тема от"
+msgid "Launch"
+msgstr "Стартиране"
+
+msgid "Download source file"
+msgstr "Изтеглете изходния файл"
+
+msgid "previous page"
+msgstr "предишна страница"
+
+msgid "By"
+msgstr "От"
+
+msgid "Open an issue"
+msgstr "Отворете проблем"
+
+msgid "Fullscreen mode"
+msgstr "Режим на цял екран"
+
+msgid "repository"
+msgstr "хранилище"

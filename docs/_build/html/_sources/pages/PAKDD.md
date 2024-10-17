@@ -6,6 +6,7 @@ Pacific-Asia Conference on Knowledge Discovery and Data Mining. [\[DBLP\]](http:
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | June 10 - 13, 2025 | Sydney, Australia | Nov 30, 2024 | [🔗](https://pakdd2025.org/) |
 2024 | May 7, 2024 - May 10, 2024 | Taipei, Taiwan | Nov 29, 2023 | [🔗](https://pakdd2024.org/)
 2023 | May 25, 2023 - May 28, 2023 | Osaka, Japan | Dec 7, 2022 | [🔗](http://pakdd2023.org/cfp)
 2021 | May 11, 2021 - May 14, 2021 | Delhi, India | Nov 30, 2020 (Nov 23, 2020) | [🔗](https://pakdd2021.org/)
