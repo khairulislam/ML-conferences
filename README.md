@@ -1,3 +1,5 @@
+# ML Conferences
+
 This project lists the Machine Learning and Data Mining related conferences with their  important date and list of accepted papers.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
@@ -6,46 +8,49 @@ This project lists the Machine Learning and Data Mining related conferences with
 [![Visits Badge](https://badges.pufler.dev/visits/khairulislam/ML-conferences)](https://badges.pufler.dev/visits/khairulislam/ML-conferences)
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Recent Conferences](#recent-conferences)
-- [AI \& ML](#ai--ml)
-	- [ICML](#icml)
-	- [NeurIPS](#neurips)
-	- [AAAI](#aaai)
-	- [IJCAI](#ijcai)
-- [Data Mining](#data-mining)
-	- [KDD](#kdd)
-	- [CIKM](#cikm)
-	- [PAKDD](#pakdd)
-- [Vision](#vision)
-	- [CVPR](#cvpr)
-	- [ECCV](#eccv)
-	- [ICCV](#iccv)
-	- [MICCAI](#miccai)
-- [NLP](#nlp)
-	- [ACL](#acl)
-	- [EMNLP](#emnlp)
-	- [NAACL](#naacl)
-	- [COLING](#coling)
-- [Software Engineering](#software-engineering)
-	- [ICSE](#icse)
-	- [ASE](#ase)
-	- [ESEM](#esem)
+- [ML Conferences](#ml-conferences)
+	- [Table of Contents](#table-of-contents)
+	- [Recent Conferences](#recent-conferences)
+	- [AI \& ML](#ai--ml)
+		- [ICML](#icml)
+		- [NeurIPS](#neurips)
+		- [AAAI](#aaai)
+		- [IJCAI](#ijcai)
+	- [Data Mining](#data-mining)
+		- [KDD](#kdd)
+		- [CIKM](#cikm)
+		- [PAKDD](#pakdd)
+	- [Vision](#vision)
+		- [CVPR](#cvpr)
+		- [ECCV](#eccv)
+		- [ICCV](#iccv)
+		- [MICCAI](#miccai)
+	- [NLP](#nlp)
+		- [ACL](#acl)
+		- [EMNLP](#emnlp)
+		- [NAACL](#naacl)
+		- [COLING](#coling)
+	- [Software Engineering](#software-engineering)
+		- [ICSE](#icse)
+		- [ASE](#ase)
+		- [ESEM](#esem)
+
 ## Recent Conferences
 
 <div align="center" style="overflow-x:auto;">
 
-Conference|When|Where|Deadline|Homepage
-|:----|:----|:----|:----|:----:|
-KDD | TBD (Aug 3, 2025 - Aug 7, 2025) | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)
-AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/)
-IEEE Big Data | Dec 15, 2024 - Dec 18, 2024 | Washington DC, USA | Sep 8, 2024 | [](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
-COLING | Jan 19, 2025 - Jan 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org)
-ICML | Jul 11, 2025 - Jul 19, 2024 | Vancouver, BC, Canada  | TBD (Feb 1, 2025) | [🔗](https://icml.cc/)
-IJCAI | TBD (Aug 3, 2025 - Aug 9, 2025) | Montreal, Canada | TBD (Jan 17, 2025) | 
-CVPR | Jun 10, 2025 - Jun 17, 2025 | Nashville, Tennessee | TDB | 
-ICCV | Oct 19, 2025 - Oct 25, 2025 | Honolulu, Hawaii | TDB | 
-ACL | Jul 27, 2025 - Aug 11, 2025 | Vienna, Austria | TBD (Feb, 2025) | [🔗](https://2025.aclweb.org/)
+Conference|When|Where|Deadline|Homepage| Deadline|
+|:----|:----|:----|:----|:----:|:----:|
+MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Open |
+CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Open |
+ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Open |
+IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) | Open |
+ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | TDB |  |Open |
+ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Open |
+IEEE Big Data | Dec 15 - 18, 2024 | Washington DC, USA | Sep 8, 2024 | [🔗](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) | Closed |
+COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
+AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |  Closed |
+KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)|  Closed |
 <!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
 <!-- ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
 MICCAI | Oct 6, 2024 - Oct 10, 2024 | MARRAKESH / MOROCCO | Mar 7, 2024 (Feb 22, 2024) | [🔗](https://conferences.miccai.org/2024/en/)
