@@ -69,6 +69,7 @@ International Conference on Machine Learning. [\[DBLP\]](http://dblp.uni-trier.d
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|
 2024 | Jul 21, 2024 - Jul 27, 2024 | Vienna, Austria | Feb 1, 2024 | [🔗](https://icml.cc/)
 2023 | Jul 24, 2023 - Jul 30, 2023 | Seoul, South Korea  | Jan 26, 2023 | [🔗](https://icml.cc/Conferences/FutureMeetings)
 2022 | Jul 17, 2022 - Jul 23, 2022 | Baltimore, United States | Feb 3, 2022 (Jan 27, 2022) | [🔗](https://icml.cc/Conferences/2022/)
@@ -138,6 +139,7 @@ International Joint Conference on Artificial Intelligence. [\[DBLP\]](http://dbl
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) |
 2024 | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
 2023 | Aug 19, 2023 - Aug 25, 2023 | Cape Town, South Africa | Jan 18, 2023 (Jan 11, 2023) | [🔗](https://ijcai-23.org/)
 2022 | Jul 23, 2022 - Jul 29, 2022 | Vienna, Austria | Jan 14, 2022 (Jan 7, 2022) | [🔗](https://ijcai-22.org/)
@@ -241,6 +243,7 @@ Computer Vision and Pattern Recognition. [\[DBLP\]](http://dblp.uni-trier.de/db/
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)|
 2024 | Jun 17, 2024 - Jun 21, 2024 | Seattle, USA | Nov 10, 2023 (Nov 3, 2023) | [🔗](https://cvpr.thecvf.com/Conferences/2024)
 2023 | Jun 18, 2023 - Jun 22, 2023 | Vancouver, Canada | Nov 11, 2022 | [🔗](https://cvpr.thecvf.com/Conferences/2023)
 2021 | Jun 19, 2021 - Jun 25, 2021 | Virtual | Nov 16, 2020 (Nov 9, 2020) | [🔗](http://cvpr2021.thecvf.com/)
@@ -328,6 +331,7 @@ Meeting of the Association for Computational Linguistics. [\[DBLP\]](http://dblp
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) |
 2024 | Aug 11, 2024 - Aug 16, 2024 | Bangkok, Thailand | Feb 15, 2024 | [🔗](https://2024.aclweb.org/)
 2023 | Jul 9, 2023 - Jul 14, 2023 | Toronto, Canada | Jan 20, 2023 (Jan 13, 2023) | [🔗](https://2023.aclweb.org)
 2022 | May 22, 2022 - May 27, 2022 | Dublin, Ireland | Nov 15, 2021 | [🔗](https://www.2022.aclweb.org/)
