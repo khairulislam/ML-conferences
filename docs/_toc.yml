@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: pages/ICML
     - file: pages/NeurIPS
+    - file: pages/ICLR
     - file: pages/AAAI
     - file: pages/IJCAI
   - caption: Data Mining

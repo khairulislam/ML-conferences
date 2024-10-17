@@ -14,6 +14,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 	- [AI \& ML](#ai--ml)
 		- [ICML](#icml)
 		- [NeurIPS](#neurips)
+		- [ICLR](#iclr)
 		- [AAAI](#aaai)
 		- [IJCAI](#ijcai)
 	- [Data Mining](#data-mining)
@@ -41,6 +42,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
+ICSE | April 27 - May 3, 2025| Ontario, Canada |  | [🔗](onf.researchr.org/home/icse-2025)| |
 MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Open |
 CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Open |
 PAKDD | June 10 - 13, 2025 | Sydney, Australia | Nov 30, 2024 | [🔗](https://pakdd2025.org/) | Open |
@@ -104,6 +106,22 @@ Year|When|Where|Deadline|Homepage
 2019 | Dec 10, 2019 - Dec 12, 2019 | Vancouver, Canada | May 23, 2019 (May 16, 2019) | [🔗](https://neurips.cc/Conferences/2019)
 2018 | Dec 3, 2018 - Dec 8, 2018 | Montreal, CANADA | May 18, 2018 | [🔗](https://nips.cc/Conferences/2018)
 2017 | Dec 4, 2017 - Dec 9, 2017 | Long Beach, CA, USA | May 19, 2017 | [🔗](https://nips.cc/Conferences/2017)
+</div>
+
+</details>
+
+### ICLR
+
+International Conference on Learning Representations. [\[DBLP\]](http://dblp.uni-trier.de/db/conf/iclr/index.html).
+
+<details><div align="center" style="overflow-x:auto;">
+
+Year|When|Where|Deadline|Homepage
+|:----|:----|:----|:----|:----:|
+2025 | Apr 24 - 28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/Dates) |
+2024 | May 7 - 11, 2024 |  Vienna, Austria | Sep 23, 2023 | [🔗](https://iclr.cc/Conferences/2024/Dates) |
+2023 | May 1 - 4, 2023 |  Kigali, Rwanda | Sep 28, 2022 | [🔗](https://iclr.cc/Conferences/2024/Dates) |
+
 </div>
 
 </details>
@@ -425,6 +443,7 @@ International Conference on Software Engineering. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | April 27 - May 3, 2025| Ontario, Canada |  | [🔗](https://conf.researchr.org/home/icse-2025)| 
 2024 | Apr 14, 2024 - Apr 20, 2024 | Lisbon | Aug 1, 2023 | [🔗](https://conf.researchr.org/home/icse-2024)
 2023 | May 14, 2023 - May 20, 2023 | Melbourne, Australia | Sep 1, 2022 | [🔗](https://conf.researchr.org/home/icse-2023)
 2021 | May 23, 2021 - May 29, 2021 | Madrid, Spain | Aug 28, 2020 | [🔗](https://conf.researchr.org/home/icse-2021)
@@ -479,6 +498,7 @@ Empirical Software Engineering and Measurement (ESEM). [\[DBLP\]](https://dblp.u
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2024 | Oct 20 - 25, 2024 | Barcelona, Spain | | [🔗](https://conf.researchr.org/home/esem-2024) |
 2023 | Oct 23, 2023 - Oct 27, 2023 | New Orleans, Louisiana, United States | May 2, 2023 (Apr 14, 2023) | [🔗](https://conf.researchr.org/home/esem-2023)
 2022 | Sep 19, 2022 - Sep 22, 2022 | Helsinki | May 2, 2022 (Apr 25, 2022) | [🔗](https://conf.researchr.org/home/esem-2022)
 2021 | Oct 11, 2021 - Oct 15, 2021 | See note on the website | May 15, 2021 (May 8, 2021) | [🔗](https://conf.researchr.org/home/esem-2021)

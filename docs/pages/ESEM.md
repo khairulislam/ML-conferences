@@ -6,6 +6,7 @@ Empirical Methods in Natural Language Processing. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2024 | Oct 20 - 25, 2024 | Barcelona, Spain | | [🔗](https://conf.researchr.org/home/esem-2024) |
 2023 | Dec 6, 2023 - Dec 10, 2023 | Singapore | Jun 23, 2023 (Jun 16, 2023) | [🔗](https://2023.emnlp.org/)
 2022 | Dec 7, 2022 - Dec 11, 2022 | Abu Dhabi, UAE | Jun 24, 2022 (Jun 17, 2022) | [🔗](https://2022.emnlp.org/)
 2021 | Nov 7, 2021 - Nov 11, 2021 | Punta Cana, Dominican Republic | May 10, 2021 | [🔗](https://2021.emnlp.org)
