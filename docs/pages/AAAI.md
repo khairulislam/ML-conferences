@@ -6,6 +6,7 @@ National Conference on Artificial Intelligence. [\[DBLP\]](http://dblp.uni-trier
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |
 2024 | Feb 20, 2024 - Feb 27, 2024 | Vancouver, Canada | Aug 15, 2023 (Aug 8, 2023) | [🔗](https://aaai.org/aaai-conference/)
 2023 | Feb 7, 2023 - Feb 14, 2023 | Washington DC, USA | Aug 15, 2022 (Aug 8, 2022) | [🔗](https://aaai.org/Conferences/AAAI-23/)
 2022 | Feb 22, 2022 - Mar 1, 2022 | Virtual-only | Sep 8, 2021 (Aug 30, 2021) | [🔗](https://aaai.org/Conferences/AAAI-22/)

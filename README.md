@@ -43,6 +43,7 @@ Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
 MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Open |
 CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Open |
+PAKDD | June 10 - 13, 2025 | Sydney, Australia | Nov 30, 2024 | [🔗](https://pakdd2025.org/) | Open |
 ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Open |
 IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) | Open |
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | TDB |  |Open |
