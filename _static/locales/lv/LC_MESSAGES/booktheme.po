@@ -8,23 +8,29 @@ msgstr ""
 "Language: lv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "suggest edit"
-msgstr "ieteikt rediģēt"
-
-msgid "Last updated on"
-msgstr "Pēdējoreiz atjaunināts"
-
-msgid "Edit this page"
-msgstr "Rediģēt šo lapu"
-
-msgid "Launch"
-msgstr "Uzsākt"
+msgid "Copyright"
+msgstr "Autortiesības"
 
 msgid "Print to PDF"
 msgstr "Drukāt PDF formātā"
 
+msgid "Edit this page"
+msgstr "Rediģēt šo lapu"
+
+msgid "suggest edit"
+msgstr "ieteikt rediģēt"
+
+msgid "Sphinx Book Theme"
+msgstr "Sfinksa grāmatas tēma"
+
 msgid "open issue"
 msgstr "atklāts jautājums"
+
+msgid "By the"
+msgstr "Ar"
+
+msgid "Theme by the"
+msgstr "Autora tēma"
 
 msgid "Download notebook file"
 msgstr "Lejupielādēt piezīmju grāmatiņu"
@@ -32,44 +38,44 @@ msgstr "Lejupielādēt piezīmju grāmatiņu"
 msgid "Toggle navigation"
 msgstr "Pārslēgt navigāciju"
 
-msgid "Source repository"
-msgstr "Avota krātuve"
-
-msgid "By the"
-msgstr "Ar"
-
 msgid "next page"
 msgstr "nākamā lapaspuse"
-
-msgid "repository"
-msgstr "krātuve"
-
-msgid "Sphinx Book Theme"
-msgstr "Sfinksa grāmatas tēma"
-
-msgid "Download source file"
-msgstr "Lejupielādēt avota failu"
 
 msgid "Contents"
 msgstr "Saturs"
 
-msgid "By"
-msgstr "Autors"
+msgid "Source repository"
+msgstr "Avota krātuve"
 
-msgid "Copyright"
-msgstr "Autortiesības"
+msgid "Search the docs ..."
+msgstr "Meklēt dokumentos ..."
 
-msgid "Fullscreen mode"
-msgstr "Pilnekrāna režīms"
+msgid "Last updated on"
+msgstr "Pēdējoreiz atjaunināts"
 
-msgid "Open an issue"
-msgstr "Atveriet problēmu"
-
-msgid "previous page"
-msgstr "iepriekšējā lapa"
+msgid "Search this book..."
+msgstr "Meklēt šajā grāmatā ..."
 
 msgid "Download this page"
 msgstr "Lejupielādējiet šo lapu"
 
-msgid "Theme by the"
-msgstr "Autora tēma"
+msgid "Launch"
+msgstr "Uzsākt"
+
+msgid "Download source file"
+msgstr "Lejupielādēt avota failu"
+
+msgid "previous page"
+msgstr "iepriekšējā lapa"
+
+msgid "By"
+msgstr "Autors"
+
+msgid "Open an issue"
+msgstr "Atveriet problēmu"
+
+msgid "Fullscreen mode"
+msgstr "Pilnekrāna režīms"
+
+msgid "repository"
+msgstr "krātuve"

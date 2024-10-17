@@ -6,6 +6,7 @@ Knowledge Discovery and Data Mining. [\[DBLP\]](http://dblp.uni-trier.de/db/conf
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Aug 3 - 7, 2025 | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)|
 2024 | Aug 25, 2024 - Aug 29, 2024 | Barcelona, Spain | Feb 8, 2024 (Feb 1, 2024) | [🔗](https://kdd2024.kdd.org/)
 2023 | Aug 6, 2023 - Aug 10, 2023 | Long Beach, CA, USA | Feb 2, 2023 | [🔗](https://kdd.org/kdd2023/)
 2022 | Aug 14, 2022 - Aug 18, 2022 | Washington DC | Feb 10, 2022 | [🔗](https://kdd.org/kdd2022/)

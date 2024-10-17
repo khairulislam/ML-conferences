@@ -6,6 +6,7 @@ International Joint Conference on Artificial Intelligence. [\[DBLP\]](http://dbl
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) |
 2024 | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
 2023 | Aug 19, 2023 - Aug 25, 2023 | Cape Town, South Africa | Jan 18, 2023 (Jan 11, 2023) | [🔗](https://ijcai-23.org/)
 2022 | Jul 23, 2022 - Jul 29, 2022 | Vienna, Austria | Jan 14, 2022 (Jan 7, 2022) | [🔗](https://ijcai-22.org/)

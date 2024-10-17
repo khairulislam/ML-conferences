@@ -6,6 +6,7 @@ International Conference on Machine Learning. [\[DBLP\]](http://dblp.uni-trier.d
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|
 2024 | Jul 21, 2024 - Jul 27, 2024 | Vienna, Austria | Feb 1, 2024 | [🔗](https://icml.cc/)
 2023 | Jul 24, 2023 - Jul 30, 2023 | Seoul, South Korea  | Jan 26, 2023 | [🔗](https://icml.cc/Conferences/FutureMeetings)
 2022 | Jul 17, 2022 - Jul 23, 2022 | Baltimore, United States | Feb 3, 2022 (Jan 27, 2022) | [🔗](https://icml.cc/Conferences/2022/)

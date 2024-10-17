@@ -8,23 +8,29 @@ msgstr ""
 "Language: hr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "suggest edit"
-msgstr "predloži uređivanje"
-
-msgid "Last updated on"
-msgstr "Posljednje ažuriranje:"
-
-msgid "Edit this page"
-msgstr "Uredite ovu stranicu"
-
-msgid "Launch"
-msgstr "Pokrenite"
+msgid "Copyright"
+msgstr "Autorska prava"
 
 msgid "Print to PDF"
 msgstr "Ispis u PDF"
 
+msgid "Edit this page"
+msgstr "Uredite ovu stranicu"
+
+msgid "suggest edit"
+msgstr "predloži uređivanje"
+
+msgid "Sphinx Book Theme"
+msgstr "Tema knjige Sphinx"
+
 msgid "open issue"
 msgstr "otvoreno izdanje"
+
+msgid "By the"
+msgstr "Od strane"
+
+msgid "Theme by the"
+msgstr "Tema autora"
 
 msgid "Download notebook file"
 msgstr "Preuzmi datoteku bilježnice"
@@ -32,44 +38,44 @@ msgstr "Preuzmi datoteku bilježnice"
 msgid "Toggle navigation"
 msgstr "Uključi / isključi navigaciju"
 
-msgid "Source repository"
-msgstr "Izvorno spremište"
-
-msgid "By the"
-msgstr "Od strane"
-
 msgid "next page"
 msgstr "sljedeća stranica"
-
-msgid "repository"
-msgstr "spremište"
-
-msgid "Sphinx Book Theme"
-msgstr "Tema knjige Sphinx"
-
-msgid "Download source file"
-msgstr "Preuzmi izvornu datoteku"
 
 msgid "Contents"
 msgstr "Sadržaj"
 
-msgid "By"
-msgstr "Po"
+msgid "Source repository"
+msgstr "Izvorno spremište"
 
-msgid "Copyright"
-msgstr "Autorska prava"
+msgid "Search the docs ..."
+msgstr "Pretražite dokumente ..."
 
-msgid "Fullscreen mode"
-msgstr "Način preko cijelog zaslona"
+msgid "Last updated on"
+msgstr "Posljednje ažuriranje:"
 
-msgid "Open an issue"
-msgstr "Otvorite izdanje"
-
-msgid "previous page"
-msgstr "Prethodna stranica"
+msgid "Search this book..."
+msgstr "Pretražite ovu knjigu ..."
 
 msgid "Download this page"
 msgstr "Preuzmite ovu stranicu"
 
-msgid "Theme by the"
-msgstr "Tema autora"
+msgid "Launch"
+msgstr "Pokrenite"
+
+msgid "Download source file"
+msgstr "Preuzmi izvornu datoteku"
+
+msgid "previous page"
+msgstr "Prethodna stranica"
+
+msgid "By"
+msgstr "Po"
+
+msgid "Open an issue"
+msgstr "Otvorite izdanje"
+
+msgid "Fullscreen mode"
+msgstr "Način preko cijelog zaslona"
+
+msgid "repository"
+msgstr "spremište"
