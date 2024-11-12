@@ -42,12 +42,10 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
-ICSE | April 27 - May 3, 2025| Ontario, Canada |  | [🔗](onf.researchr.org/home/icse-2025)| |
-MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Open |
 CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Open |
 PAKDD | June 10 - 13, 2025 | Sydney, Australia | Nov 30, 2024 | [🔗](https://pakdd2025.org/) | Open |
 ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Open |
-IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) | Open |
+IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 16 (Jan 23), 2025 |[🔗](https://2025.ijcai.org/) | Open |
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | TDB |  |Open |
 ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Open |
 IEEE Big Data | Dec 15 - 18, 2024 | Washington DC, USA | Sep 8, 2024 | [🔗](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) | Closed |
@@ -55,6 +53,8 @@ COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coli
 AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |  Closed |
 ICLR | Apr 24-28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/CallForPapers) | Closed |
 KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Aug 8, 2024 (Aug 1, 2024) | [🔗](https://kdd2025.kdd.org/)|  Closed |
+MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Closed |
+ICSE | April 27 - May 3, 2025| Ontario, Canada | Nov 11, 2024 | [🔗](https://conf.researchr.org/home/icse-2025)| Closed |
 <!-- PAKDD | May 7 - May 10, 2024 |  | Nov 29, 2024 | [🔗](https://pakdd2025.org/) -->
 <!-- ECCV | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
 MICCAI | Oct 6, 2024 - Oct 10, 2024 | MARRAKESH / MOROCCO | Mar 7, 2024 (Feb 22, 2024) | [🔗](https://conferences.miccai.org/2024/en/)
@@ -443,7 +443,7 @@ International Conference on Software Engineering. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-2025 | April 27 - May 3, 2025| Ontario, Canada |  | [🔗](https://conf.researchr.org/home/icse-2025)| 
+2025 | April 27 - May 3, 2025| Ontario, Canada | Nov 11, 2024 | [🔗](https://conf.researchr.org/home/icse-2025)| 
 2024 | Apr 14, 2024 - Apr 20, 2024 | Lisbon | Aug 1, 2023 | [🔗](https://conf.researchr.org/home/icse-2024)
 2023 | May 14, 2023 - May 20, 2023 | Melbourne, Australia | Sep 1, 2022 | [🔗](https://conf.researchr.org/home/icse-2023)
 2021 | May 23, 2021 - May 29, 2021 | Madrid, Spain | Aug 28, 2020 | [🔗](https://conf.researchr.org/home/icse-2021)

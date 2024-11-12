@@ -3,7 +3,7 @@
 
 title: ""
 author: Md. Khairul Islam
-email: khairulislam@virginia.edu
+email: khairulislamtanim@gmail.com
 # logo: logo.png
 copyright: "2024"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -33,6 +33,30 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
+# html:
+#   use_issues_button: true
+#   use_repository_button: true
+#   use_edit_page_button: true
+
+sphinx:
+  config:
+    html_context:
+      default_mode: auto
+    html_theme_options:
+      logo:
+        image_dark: logo-dark.png
+        image_light: logo-light.png
+      repository_url: https://github.com/khairulislam/ML-conferences
+      use_issues_button: true
+      use_repository_button: true
+      use_edit_page_button: true
+      
+    # html_static_path:
+    #   - "logo_light.png"
+    #   - "logo_dark.png"
+    bibtex_reference_style: author_year # or label, super, \supercite
+    # suppress_warnings:
+    #   ["mystnb.unknown_mime_type", "myst.domains", "mystnb.mime_priority"]
+    # copybutton_prompt_text: "$"
+    # language: en
+    
