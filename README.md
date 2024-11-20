@@ -42,12 +42,12 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
-CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Open |
 PAKDD | June 10 - 13, 2025 | Sydney, Australia | Nov 30, 2024 | [🔗](https://pakdd2025.org/) | Open |
 ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Open |
 IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 16 (Jan 23), 2025 |[🔗](https://2025.ijcai.org/) | Open |
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | TDB |  |Open |
 ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Open |
+CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Closed |
 IEEE Big Data | Dec 15 - 18, 2024 | Washington DC, USA | Sep 8, 2024 | [🔗](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) | Closed |
 COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
 AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |  Closed |
