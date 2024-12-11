@@ -64,6 +64,8 @@ ASE | Sep 29, 2024 - Oct 4, 2024 | Sacramento United States  | Jun 7, 2024 (May 
 -->
 </div>
 
+Check [Acceptance rates for the major top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+
 ## AI & ML
 ### ICML
 
