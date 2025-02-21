@@ -42,17 +42,18 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
-ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Open |
 MICCAI | Sep 23, 2025 - Sep 27, 2025 | South Korean | Feb 27, 2025 (Feb 13, 2025) | [🔗](https://conferences.miccai.org/2025/en/) | Open |
 ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Open |
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Open |
-ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025)
+SC | Nov 16 - 21, 2025 | ST Louis, Missouri, USA | April 14, 2025 | [🔗](https://sc25.supercomputing.org/) | Open |
+ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | |
+IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) |  |
+ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Closed |
 KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Feb 10, 2025 (1st cycle Aug 8, 2024) | [🔗](https://kdd2025.kdd.org/)|  Closed |
 ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Closed |
 IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 16 (Jan 23), 2025 |[🔗](https://2025.ijcai.org/) | Closed |
 PAKDD | June 10 - 13, 2025 | Sydney, Australia | Dec 14, 2024 | [🔗](https://pakdd2025.org/) | Closed |
 CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Closed |
-IEEE Big Data | Dec 15 - 18, 2024 | Washington DC, USA | Sep 8, 2024 | [🔗](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) | Closed |
 COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
 AAAI | Feb 27 - March 2, 2025 | Philadelphia, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/) |  Closed |
 ICLR | Apr 24-28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/CallForPapers) | Closed |
