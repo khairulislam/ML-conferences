@@ -17,6 +17,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 		- [ICLR](#iclr)
 		- [AAAI](#aaai)
 		- [IJCAI](#ijcai)
+		- [MLSys](#mlsys)
 	- [Data Mining](#data-mining)
 		- [KDD](#kdd)
 		- [CIKM](#cikm)
@@ -42,11 +43,15 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Deadline|
 |:----|:----|:----|:----|:----:|:----:|
-NeurIPS | Dec 2-7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025) | Open |
-CIKM | Nov 10-14, 2025 | Seoul, Korea  | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org) | Open |
-ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Open |
-AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | |
-IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) |  |
+IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Open |
+ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Open (subtracks)|
+ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Open |
+MLSys | May 17 - 22, 2026 | Bellevue, WA, US | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates) | Open |
+CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 14, 2025 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| TBD |
+AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | Closed |
+CIKM | Nov 10-14, 2025 | Seoul, Korea  | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org) | Closed |
+ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Closed |
+NeurIPS | Dec 2-7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025) | Closed |
 SC | Nov 16 - 21, 2025 | ST Louis, Missouri, USA | April 14, 2025 | [🔗](https://sc25.supercomputing.org/) | Closed |
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
 ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
@@ -56,11 +61,7 @@ KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Feb 10, 2025 (1st cycle Aug 8, 202
 ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Closed |
 IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 16 (Jan 23), 2025 |[🔗](https://2025.ijcai.org/) | Closed |
 PAKDD | June 10 - 13, 2025 | Sydney, Australia | Dec 14, 2024 | [🔗](https://pakdd2025.org/) | Closed |
-CVPR | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| Closed |
-ICSE | April 27 - May 3, 2025| Ontario, Canada | Nov 11, 2024 | [🔗](https://conf.researchr.org/home/icse-2025)| Closed |
 COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
-MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Closed |
-ICLR | Apr 24-28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/CallForPapers) | Closed |
 
 </div>
 
@@ -175,6 +176,14 @@ Year|When|Where|Deadline|Homepage
 </div>
 
 </details>
+
+### MLSys
+
+International Conference on Machine Learning and Systems
+
+Year|When|Where|Deadline|Homepage
+|:----|:----|:----|:----|:----:|
+MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Closed |
 
 ## Data Mining
 ### KDD
