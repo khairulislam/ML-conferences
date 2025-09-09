@@ -25,6 +25,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 	- [Vision](#vision)
 		- [CVPR](#cvpr)
 		- [ECCV](#eccv)
+		- [WACV](#wacv)
 		- [ICCV](#iccv)
 		- [MICCAI](#miccai)
 	- [NLP](#nlp)
@@ -41,18 +42,19 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 <div align="center" style="overflow-x:auto;">
 
-Conference|When|Where|Deadline|Homepage| Deadline|
+Conference|When|Where|Deadline|Homepage| Status |
 |:----|:----|:----|:----|:----:|:----:|
-IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Open |
-ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Open (subtracks)|
+WACV | March 6-10, 2026| Tucson, Arizona, United States  |  Sep 20, 2025 (Sep 13, 2025) | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) | Open | 
 ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Open |
 MLSys | May 17 - 22, 2026 | Bellevue, WA, US | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates) | Open |
 CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 14, 2025 | [🔗](https://cvpr.thecvf.com/Conferences/2025)| TBD |
+IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Closed |
 AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | Closed |
 CIKM | Nov 10-14, 2025 | Seoul, Korea  | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org) | Closed |
 ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Closed |
 NeurIPS | Dec 2-7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025) | Closed |
 SC | Nov 16 - 21, 2025 | ST Louis, Missouri, USA | April 14, 2025 | [🔗](https://sc25.supercomputing.org/) | Closed |
+ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Closed|
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
 ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
 MICCAI | Sep 23, 2025 - Sep 27, 2025 | South Korean | Feb 27, 2025 (Feb 13, 2025) | [🔗](https://conferences.miccai.org/2025/en/) | Closed |
@@ -308,6 +310,18 @@ Year|When|Where|Deadline|Homepage
 2010 | Sep 5, 2010 - Sep 11, 2010 | Hersonissos, Crete, Greece | Mar 17, 2010 | [🔗](http://www.ics.forth.gr/eccv2010)
 2008 | Oct 12, 2008 - Oct 18, 2008 | Marseille, France | Mar 17, 2008 | [🔗](http://eccv2008.inrialpes.fr/)
 </div>
+
+</details>
+
+### [WACV](https://wacv.thecvf.com/)
+
+Winter Conference on Applications of Computer Vision 
+
+<details><div align="center" style="overflow-x:auto;">
+
+|Year|When|Where|Deadline|Homepage|
+|:----|:----|:----|:----|:----:|
+|2026 | March 6-10, 2026| Tucson, Arizona, United States  |  Sep 20, 2025 (Sep 13, 2025) | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) |
 
 </details>
 
