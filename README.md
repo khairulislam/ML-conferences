@@ -5,7 +5,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/khairulislam/ML-conferences)
-[![Visits Badge](https://badges.pufler.dev/visits/khairulislam/ML-conferences)](https://badges.pufler.dev/visits/khairulislam/ML-conferences)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=khairulislam.ml-conferences&left_text=Visitors)
 
 ## Table of Contents
 - [ML Conferences](#ml-conferences)
@@ -44,10 +44,10 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Status |
 |:----|:----|:----|:----|:----:|:----:|
-ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Open |
 IPSPS | May 25-29, 2026 | New Orleans, USA | Oct 9, 2025 (Oct 2, 2025) | [🔗](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html) | Open |
 MLSys | May 17 - 22, 2026 | Bellevue, WA, US | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates) | Open |
-CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2025)| TBD |
+CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2026)| TBD |
+ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Closed |
 IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Closed |
 WACV | March 6-10, 2026| Tucson, Arizona, United States  |  July 18, 2025 | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) | Closed | 
 AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | Closed |
