@@ -1,6 +1,6 @@
 # ML Conferences
 
-This project lists the Machine Learning and Data Mining related conferences with their  important date and list of accepted papers.
+This project lists the Machine Learning and Data Mining related conferences with their important date and list of accepted papers.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -58,12 +58,12 @@ SC | Nov 16 - 21, 2025 | ST Louis, Missouri, USA | April 14, 2025 | [🔗](https
 ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Closed|
 ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
 ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
-MICCAI | Sep 23, 2025 - Sep 27, 2025 | South Korean | Feb 27, 2025 (Feb 13, 2025) | [🔗](https://conferences.miccai.org/2025/en/) | Closed |
-ACL | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) | Closed |
-KDD | Aug 3 - 7, 2025 | Toronto, ON, Canada | Feb 10, 2025 (1st cycle Aug 8, 2024) | [🔗](https://kdd2025.kdd.org/)|  Closed |
-ICML | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|  Closed |
-IJCAI | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 16 (Jan 23), 2025 |[🔗](https://2025.ijcai.org/) | Closed |
-PAKDD | June 10 - 13, 2025 | Sydney, Australia | Dec 14, 2024 | [🔗](https://pakdd2025.org/) | Closed |
+MICCAI | Oct 4 - 8, 2026 | Abu Dhabi, UAE | TBD | [🔗](https://conferences.miccai.org/2026/en/) | TBD |
+ACL | July 2 - 7, 2026 | San Diego, California, United States | TBD | [🔗](https://2026.aclweb.org/) | TBD |
+KDD | Aug 9 - 13, 2026 | Jeju, South Korea | Feb 8, 2026 (1st cycle July 31, 2025) | [🔗](https://kdd2026.kdd.org/)|  Open |
+ICML | July 6 - 12, 2026 | Seoul, South Korea | TBD | [🔗](https://icml.cc/)|  TBD |
+IJCAI | Aug 15 - Aug 21, 2026 | Bremen, Germany | January (No date specified) | [🔗](https://2026.ijcai.org/) | TBD |
+PAKDD | June 9 - 12, 2026 | Hong Kong | Nov 15, 2025 | [🔗](https://pakdd2026.org/) | Open |
 COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
 
 </div>
