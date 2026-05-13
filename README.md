@@ -44,12 +44,20 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Status |
 |:----|:----|:----|:----|:----:|:----:|
-ICML | July 6 - 12, 2026 | Seoul, South Korea | Jan 28, 2026 (Jan 23, 2026) | [🔗](https://icml.cc/Conferences/2026)|  Open |
-IJCAI | Aug 15 - 21, 2026 | Bremen, Germany | Jan 19, 2026 (Jan 12, 2026) | [🔗](https://2026.ijcai.org/) | Open |
-MICCAI | Oct 4 - 8, 2026 | Abu Dhabi, UAE | Feb 26, 2026 (Feb 12, 2026) | [🔗](https://conferences.miccai.org/2026/en/) | Open |
-KDD | Aug 9 - 13, 2026 | Jeju, South Korea | Feb 8, 2026 (Feb 1, 2026) (1st cycle July 31, 2025) | [🔗](https://kdd2026.kdd.org/)|  Open |
-SC | Nov 15 - 20, 2026 | Chicago, IL, USA | April 8, 2026 (April 1, 2026) | [🔗](https://sc26.supercomputing.org/) | TBD |
-ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | TBD |
+AIES | Oct 12-14, 2026 | Malmo, Sweden | May 21, 2026 (May 14, 2026) | [🔗](https://www.aies-conference.com/2026) | Open |
+CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https://cikm2026.diag.uniroma1.it/) | Open |
+EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Open |
+CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Open |
+ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Open |
+AAAI | Feb 16-23 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | TBD |
+WDSM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | TBD |
+NeurIPS | Dec 6 - 12, 2026 | Sydney, Australia | May 6, 2026 (May 4, 2026) | [🔗](https://neurips.cc/Conferences/2026) | Closed |
+SC | Nov 15 - 20, 2026 | Chicago, IL, USA | April 8, 2026 (April 1, 2026) | [🔗](https://sc26.supercomputing.org/) | Closed |
+ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
+MICCAI | Oct 4 - 8, 2026 | Abu Dhabi, UAE | Feb 26, 2026 (Feb 12, 2026) | [🔗](https://conferences.miccai.org/2026/en/) | Closed |
+KDD | Aug 9 - 13, 2026 | Jeju, South Korea | Feb 8, 2026 (Feb 1, 2026) (1st cycle July 31, 2025) | [🔗](https://kdd2026.kdd.org/)|  Closed |
+ICML | July 6 - 11, 2026 | Seoul, South Korea | Jan 28, 2026 (Jan 23, 2026) | [🔗](https://icml.cc/Conferences/2026)|  Closed |
+IJCAI | Aug 15 - 21, 2026 | Bremen, Germany | Jan 19, 2026 (Jan 12, 2026) | [🔗](https://2026.ijcai.org/) | Closed |
 ACL | July 2 - 7, 2026 | San Diego, California, United States | Jan 5, 2026 | [🔗](https://2026.aclweb.org/) | Closed |
 PAKDD | June 9 - 12, 2026 | Hong Kong | Nov 15, 2025 | [🔗](https://pakdd2026.org/) | Closed |
 CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2026)| Closed |
@@ -59,12 +67,12 @@ ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | 
 IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Closed |
 WACV | March 6-10, 2026| Tucson, Arizona, United States  |  July 18, 2025 | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) | Closed | 
 AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | Closed |
+ASE | Nov 16-20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Closed |
 CIKM | Nov 10-14, 2025 | Seoul, Korea  | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org) | Closed |
-ASE | Nov 16, 2025 - Nov 20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Closed |
 NeurIPS | Dec 2-7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025) | Closed |
 ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Closed|
-ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
-COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed |
+<!-- ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
+COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed | -->
 
 </div>
 
@@ -546,4 +554,3 @@ Year|When|Where|Deadline|Homepage
 </div>
 
 </details>
-
