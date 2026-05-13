@@ -49,6 +49,7 @@ CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https
 EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Open |
 CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Open |
 ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Open |
+WACV | Jan 4-8, 2027 | Lake Buena Vista, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Open |
 AAAI | Feb 16-23 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | TBD |
 WDSM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | TBD |
 NeurIPS | Dec 6 - 12, 2026 | Sydney, Australia | May 6, 2026 (May 4, 2026) | [🔗](https://neurips.cc/Conferences/2026) | Closed |
