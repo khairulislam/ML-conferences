@@ -49,8 +49,10 @@ CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https
 EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Open |
 CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Open |
 ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Open |
-WACV | Jan 4-8, 2027 | Lake Buena Vista, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Open |
+WACV | Jan 4-8, 2027 | Disney Springs, Buena Vista, FL, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Open |
+ICSE | April 25 - May 1, 2027 | Dublin, Ireland | 30 Jun, 2026 (23 Jun, 2026) | [🔗](https://conf.researchr.org/dates/icse-2027) | Open |
 AAAI | Feb 16-23 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | TBD |
+IEEE Big Data | Dec 14 - 17, 2026 | Phoenix, Arizona, USA | Aug 21, 2026 | [🔗](https://bigdataieee.org/BigData2026/) | TBD |
 WDSM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | TBD |
 NeurIPS | Dec 6 - 12, 2026 | Sydney, Australia | May 6, 2026 (May 4, 2026) | [🔗](https://neurips.cc/Conferences/2026) | Closed |
 SC | Nov 15 - 20, 2026 | Chicago, IL, USA | April 8, 2026 (April 1, 2026) | [🔗](https://sc26.supercomputing.org/) | Closed |
