@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ML Conferences - Deadlines</title>
+  <link rel="stylesheet" href="./css/tokens.css">
+  <link rel="stylesheet" href="./css/base.css">
+  <link rel="stylesheet" href="./css/components.css">
+  <link rel="stylesheet" href="./css/deadlines.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>🎓 ML Conferences</h1>
+      <nav>
+        <a href="./deadlines.html" class="active">Deadlines</a>
+        <a href="./stats.html">Statistics</a>
+        <a href="./papers.html">Papers</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <!-- Timezone info -->
+      <div class="timezone-info" id="timezone-info">
+        Times in your local timezone
+      </div>
+
+      <!-- Toolbar with filters -->
+      <div class="toolbar">
+        <!-- View mode toggle -->
+        <div class="toggle-group">
+          <label class="toggle">
+            <input type="radio" name="view-mode" value="all" id="toggle-all">
+            <span>All</span>
+          </label>
+          <label class="toggle">
+            <input type="radio" name="view-mode" value="active" id="toggle-active" checked>
+            <span>Active Only</span>
+          </label>
+        </div>
+
+        <!-- Category chips -->
+        <div class="chip-group">
+          <label class="chip" data-category="ML">
+            <input type="checkbox" value="ML">
+            <span>ML</span>
+          </label>
+          <label class="chip" data-category="CV">
+            <input type="checkbox" value="CV">
+            <span>CV</span>
+          </label>
+          <label class="chip" data-category="NLP">
+            <input type="checkbox" value="NLP">
+            <span>NLP</span>
+          </label>
+          <label class="chip" data-category="DM">
+            <input type="checkbox" value="DM">
+            <span>Data Mining</span>
+          </label>
+          <label class="chip" data-category="SE">
+            <input type="checkbox" value="SE">
+            <span>Software Eng</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Conference list -->
+      <div id="conference-list" class="conference-list">
+        <!-- Dynamically populated by JavaScript -->
+        <div class="loading">Loading conferences...</div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+    </div>
+  </footer>
+
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

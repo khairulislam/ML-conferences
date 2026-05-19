@@ -1,0 +1,370 @@
+/* Deadlines page specific styles */
+
+/* Timezone info banner */
+.timezone-info {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-3) var(--space-4);
+  margin-bottom: var(--space-6);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  text-align: center;
+}
+
+/* Toolbar layout */
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-6);
+  margin-bottom: var(--space-8);
+  flex-wrap: wrap;
+}
+
+.toggle-group {
+  display: flex;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.toggle {
+  flex: 1;
+  padding: var(--space-3) var(--space-6);
+  background-color: transparent;
+  border: none;
+  color: var(--color-text-primary);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+  user-select: none;
+}
+
+.toggle:first-child {
+  border-right: 1px solid var(--color-border);
+}
+
+.toggle:hover {
+  background-color: var(--color-surface-hover);
+}
+
+.toggle input[type="radio"] {
+  display: none;
+}
+
+.toggle input[type="radio"]:checked + span {
+  color: var(--color-accent);
+  font-weight: var(--weight-bold);
+}
+
+.toggle input[type="radio"]:checked {
+  color: var(--color-accent);
+}
+
+.toggle span {
+  display: block;
+}
+
+/* Chip group */
+.chip-group {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.chip {
+  position: relative;
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background-color: transparent;
+  color: var(--color-text-secondary);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  user-select: none;
+}
+
+.chip input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  margin: 0;
+  width: 0;
+  height: 0;
+}
+
+.chip:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.chip input[type="checkbox"]:checked + span {
+  color: var(--color-accent);
+}
+
+.chip input[type="checkbox"]:checked {
+  accent-color: var(--color-accent);
+}
+
+.chip--active {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: white;
+}
+
+/* Conference list */
+.conference-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+/* Conference card layout */
+.conference-card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: var(--space-4);
+  align-items: start;
+}
+
+.conference-card-left {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.conference-card-header {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.conference-name {
+  font-size: var(--text-lg);
+  font-weight: var(--weight-bold);
+  margin: 0;
+  display: inline;
+}
+
+.conference-year {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.conference-category-badge {
+  display: inline-block;
+}
+
+.conference-external-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  color: var(--color-accent);
+  font-size: 16px;
+  margin-left: auto;
+}
+
+.conference-external-link:hover {
+  opacity: 0.8;
+}
+
+.conference-meta {
+  display: flex;
+  gap: var(--space-6);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  flex-wrap: wrap;
+}
+
+.conference-dates-location {
+  display: flex;
+  gap: var(--space-4);
+}
+
+.conference-deadlines {
+  display: flex;
+  gap: var(--space-6);
+}
+
+.deadline-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.deadline-label {
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+.deadline-value {
+  color: var(--color-text-primary);
+  font-weight: var(--weight-medium);
+}
+
+.conference-card-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--space-2);
+  white-space: nowrap;
+}
+
+.countdown-timer {
+  font-family: var(--font-mono);
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+}
+
+.countdown-timer-tbd {
+  color: var(--color-text-secondary);
+}
+
+/* Timeline bar (optional, hidden on mobile) */
+.conference-timeline {
+  grid-column: 1 / -1;
+  height: 20px;
+  background-color: var(--color-surface-hover);
+  border-radius: var(--radius-sm);
+  position: relative;
+  margin-top: var(--space-2);
+}
+
+.timeline-progress {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-accent-hover));
+  border-radius: var(--radius-sm);
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.timeline-now {
+  position: absolute;
+  width: 2px;
+  height: 100%;
+  background-color: var(--color-warning);
+  top: 0;
+}
+
+.timeline-abstract {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background-color: var(--color-accent);
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 2px solid var(--color-surface);
+}
+
+.timeline-paper {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: var(--color-accent);
+  border-radius: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 2px solid var(--color-surface);
+}
+
+/* Past deadline section separator */
+.past-section-label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  margin: var(--space-8) 0 var(--space-6) 0;
+  color: var(--color-text-secondary);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  font-weight: var(--weight-semibold);
+}
+
+.past-section-label::before,
+.past-section-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background-color: var(--color-border);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .toggle-group {
+    width: 100%;
+  }
+
+  .toggle {
+    flex: 1;
+  }
+
+  .chip-group {
+    width: 100%;
+  }
+
+  .chip {
+    flex: 1;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 640px) {
+  .toolbar {
+    gap: var(--space-4);
+  }
+
+  .conference-card {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+
+  .conference-card-right {
+    align-items: flex-start;
+  }
+
+  .conference-meta {
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .conference-dates-location {
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .conference-deadlines {
+    gap: var(--space-4);
+  }
+
+  .conference-timeline {
+    display: none;
+  }
+
+  .conference-card-header {
+    gap: var(--space-2);
+  }
+
+  .conference-name {
+    font-size: var(--text-base);
+  }
+
+  .countdown-timer {
+    font-size: var(--text-sm);
+  }
+}

@@ -1,0 +1,392 @@
+/* Reusable UI components */
+
+/* ===== Card Component ===== */
+.card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  transition: background-color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.card:hover {
+  background-color: var(--color-surface-hover);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Card urgency states */
+.card--normal {
+  border-left-color: var(--color-normal);
+}
+
+.card--attention {
+  border-left-color: var(--color-attention);
+  background: linear-gradient(to right, rgba(255, 213, 79, 0.05), transparent);
+}
+
+.card--warning {
+  border-left-color: var(--color-warning);
+  background: linear-gradient(to right, rgba(255, 152, 0, 0.05), transparent);
+}
+
+.card--urgent {
+  border-left-color: var(--color-urgent);
+  background: linear-gradient(to right, rgba(239, 83, 80, 0.05), transparent);
+  animation: pulse-urgent 2s ease-in-out infinite;
+}
+
+.card--past {
+  border-left-color: var(--color-past);
+  opacity: 0.6;
+}
+
+@keyframes pulse-urgent {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(239, 83, 80, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 4px rgba(239, 83, 80, 0);
+  }
+}
+
+/* Card content structure */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-4);
+  margin-bottom: var(--space-3);
+}
+
+.card-title-group {
+  flex: 1;
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+
+.card-title {
+  font-size: var(--text-lg);
+  font-weight: var(--weight-bold);
+  margin: 0;
+}
+
+.card-year {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.card-meta {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: var(--color-accent);
+  transition: transform var(--transition-fast);
+}
+
+.card-link:hover {
+  transform: scale(1.2);
+}
+
+.card-countdown {
+  font-family: var(--font-mono);
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+  white-space: nowrap;
+  color: var(--color-text-primary);
+}
+
+.card-countdown--normal {
+  color: var(--color-normal);
+}
+
+.card-countdown--attention {
+  color: var(--color-attention);
+}
+
+.card-countdown--warning {
+  color: var(--color-warning);
+}
+
+.card-countdown--urgent {
+  color: var(--color-urgent);
+}
+
+.card-countdown--past {
+  color: var(--color-past);
+}
+
+.card-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-3);
+}
+
+.card-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.card-dates {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.card-location {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.card-deadlines {
+  display: flex;
+  gap: var(--space-6);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+}
+
+.card-deadline-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.card-deadline-label {
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
+.card-deadline-value {
+  color: var(--color-text-primary);
+  font-weight: var(--weight-medium);
+}
+
+/* Card footer with timeline (optional) */
+.card-footer {
+  margin-top: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border);
+}
+
+.timeline-bar {
+  height: 24px;
+  background-color: var(--color-surface-hover);
+  border-radius: var(--radius-sm);
+  position: relative;
+  overflow: hidden;
+}
+
+.timeline-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-accent-hover));
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.timeline-marker {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 16px;
+  background-color: var(--color-accent);
+  border-radius: 1px;
+}
+
+.timeline-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-secondary);
+  position: absolute;
+  bottom: -20px;
+}
+
+/* ===== Badge Component ===== */
+.badge {
+  display: inline-block;
+  padding: var(--space-2) var(--space-3);
+  border-radius: 999px;
+  font-size: var(--text-xs);
+  font-weight: var(--weight-semibold);
+  white-space: nowrap;
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.badge--ml {
+  background-color: rgba(124, 77, 255, 0.15);
+  color: var(--color-cat-ml);
+}
+
+.badge--cv {
+  background-color: rgba(0, 188, 212, 0.15);
+  color: var(--color-cat-cv);
+}
+
+.badge--nlp {
+  background-color: rgba(76, 175, 80, 0.15);
+  color: var(--color-cat-nlp);
+}
+
+.badge--dm {
+  background-color: rgba(255, 112, 67, 0.15);
+  color: var(--color-cat-dm);
+}
+
+.badge--se {
+  background-color: rgba(240, 98, 146, 0.15);
+  color: var(--color-cat-se);
+}
+
+/* ===== Chip Component (multi-select buttons) ===== */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background-color: transparent;
+  color: var(--color-text-primary);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+  user-select: none;
+}
+
+.chip input[type="checkbox"] {
+  margin-right: var(--space-2);
+  cursor: pointer;
+}
+
+.chip:hover {
+  background-color: var(--color-surface-hover);
+  border-color: var(--color-accent);
+}
+
+.chip input[type="checkbox"]:checked + span {
+  color: var(--color-accent);
+}
+
+.chip--active {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: white;
+}
+
+.chip--active input[type="checkbox"] {
+  accent-color: white;
+}
+
+/* ===== Toggle Component ===== */
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-2) var(--space-4);
+  border: 1px solid var(--color-border);
+  background-color: transparent;
+  color: var(--color-text-primary);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast);
+  user-select: none;
+}
+
+.toggle:first-child {
+  border-radius: var(--radius-md) 0 0 var(--radius-md);
+}
+
+.toggle:last-child {
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  border-left: none;
+}
+
+.toggle input[type="radio"] {
+  margin-right: var(--space-2);
+  cursor: pointer;
+}
+
+.toggle:hover {
+  background-color: var(--color-surface-hover);
+}
+
+.toggle input[type="radio"]:checked {
+  accent-color: var(--color-accent);
+}
+
+.toggle input[type="radio"]:checked + span {
+  color: var(--color-accent);
+}
+
+.toggle-group {
+  display: flex;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+/* ===== Empty State ===== */
+.empty-state {
+  text-align: center;
+  padding: var(--space-12);
+  color: var(--color-text-secondary);
+}
+
+.empty-state-icon {
+  font-size: 48px;
+  margin-bottom: var(--space-4);
+  opacity: 0.5;
+}
+
+.empty-state-title {
+  font-size: var(--text-lg);
+  font-weight: var(--weight-semibold);
+  margin-bottom: var(--space-2);
+  color: var(--color-text-primary);
+}
+
+.empty-state-text {
+  margin-bottom: 0;
+}
+
+/* ===== Loading State ===== */
+.loading {
+  text-align: center;
+  padding: var(--space-8);
+  color: var(--color-text-secondary);
+}
+
+@media (max-width: 640px) {
+  .card-header {
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .card-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .card-deadlines {
+    gap: var(--space-4);
+  }
+
+  .card-footer {
+    display: none;
+  }
+}

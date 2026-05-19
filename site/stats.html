@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ML Conferences - Statistics</title>
+  <link rel="stylesheet" href="./css/tokens.css">
+  <link rel="stylesheet" href="./css/base.css">
+  <link rel="stylesheet" href="./css/components.css">
+  <link rel="stylesheet" href="./css/stats.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>🎓 ML Conferences</h1>
+      <nav>
+        <a href="./deadlines.html">Deadlines</a>
+        <a href="./stats.html" class="active">Statistics</a>
+        <a href="./papers.html">Papers</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <h2>Conference Statistics</h2>
+
+      <!-- Toolbar -->
+      <div class="toolbar">
+        <!-- Category filter (exclusive selection) - populated by JavaScript -->
+        <div class="category-filter">
+        </div>
+
+        <!-- Conference search and filter chips -->
+        <div class="conference-filter">
+          <div class="conference-search-row">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="conference-search" class="conference-search-input"
+                   placeholder="Search conferences...">
+          </div>
+          <div class="conference-chips" id="conference-chips">
+            <!-- Populated by JavaScript -->
+          </div>
+        </div>
+
+        <!-- Year range filter -->
+        <div class="year-group">
+          <label class="toggle-label">Years:</label>
+          <div class="year-inputs">
+            <input type="number" id="year-min" class="year-input" min="2010" max="2026" value="2018" placeholder="From">
+            <span class="year-separator">-</span>
+            <input type="number" id="year-max" class="year-input" min="2010" max="2026" value="2026" placeholder="To">
+          </div>
+        </div>
+      </div>
+
+      <!-- Chart section -->
+      <div class="chart-section">
+        <div class="chart-container">
+          <canvas id="trend-chart"></canvas>
+        </div>
+        <div class="chart-legend" id="chart-legend">
+          <!-- Populated by JavaScript -->
+        </div>
+      </div>
+
+      <!-- Conference Info section -->
+      <div class="conference-info">
+        <h3>Conference Info</h3>
+        <div class="stats-list" id="stats-list">
+          <!-- Populated by JavaScript -->
+        </div>
+      </div>
+
+      <!-- Empty state -->
+      <div class="empty-state" id="empty-state" style="display: none;">
+        <div class="empty-state-icon">🔍</div>
+        <h3 class="empty-state-title">No statistics found</h3>
+        <p class="empty-state-text">Try adjusting your filters to see more data.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+    </div>
+  </footer>
+
+  <script type="module" src="./js/stats.js"></script>
+</body>
+</html>

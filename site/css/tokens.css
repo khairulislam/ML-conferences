@@ -1,0 +1,91 @@
+/* Design tokens - all colors, spacing, typography, and transitions */
+
+:root {
+  /* Color palette - dark theme */
+  --color-bg: #0f1117;
+  --color-surface: #1a1d27;
+  --color-surface-hover: #22263a;
+  --color-border: #2d3148;
+  --color-text-primary: #e8eaf6;
+  --color-text-secondary: #9094b3;
+  --color-accent: #5c6bc0;
+  --color-accent-hover: #7986cb;
+
+  /* Urgency colors */
+  --color-urgent: #ef5350;
+  --color-warning: #ff9800;
+  --color-attention: #ffd54f;
+  --color-normal: #66bb6a;
+  --color-past: #616161;
+
+  /* Category badge colors */
+  --color-cat-ml: #7c4dff;
+  --color-cat-cv: #00bcd4;
+  --color-cat-nlp: #4caf50;
+  --color-cat-dm: #ff7043;
+  --color-cat-se: #f06292;
+
+  /* Typography */
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+
+  /* Font weights */
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  /* Line heights */
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+
+  /* Spacing scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* Layout */
+  --max-width: 75%;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 350ms ease;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    /* Light theme color overrides */
+    --color-bg: #ffffff;
+    --color-surface: #f5f7fa;
+    --color-surface-hover: #eef0f6;
+    --color-border: #d5dce3;
+    --color-text-primary: #1a1d27;
+    --color-text-secondary: #565d6a;
+    --color-accent: #5c6bc0;
+    --color-accent-hover: #3d47a1;
+
+    /* Urgency colors (adjusted for light theme) */
+    --color-urgent: #d32f2f;
+    --color-warning: #f57c00;
+    --color-attention: #fbc02d;
+    --color-normal: #388e3c;
+    --color-past: #999999;
+  }
+}

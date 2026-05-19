@@ -1,2 +1,4 @@
-data
+utils/data
 docs/_build
+.claude
+reference_code
