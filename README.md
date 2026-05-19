@@ -11,7 +11,7 @@ This project lists the Machine Learning and Data Mining related conferences with
 - [ML Conferences](#ml-conferences)
 	- [Table of Contents](#table-of-contents)
 	- [Recent Conferences](#recent-conferences)
-		- [Credit](#credit)
+		- [Resource Credit](#resource-credit)
 	- [AI \& ML](#ai--ml)
 		- [ICML](#icml)
 		- [NeurIPS](#neurips)
@@ -82,9 +82,11 @@ COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coli
 
 Check [Acceptance rates for the major top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate).
 
-### Credit
+### Resource Credit
 
-* 
+* [Computer Science Conference Statistics](https://github.com/Xovee/cs-conf-stats) by [Xovee](https://github.com/Xovee)
+* [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) by [ccfddl](https://github.com/ccfddl)
+* [AI Deadlines](https://github.com/paperswithcode/ai-deadlines) by [paperswithcode](https://github.com/paperswithcode)
 
 ## AI & ML
 ### ICML
