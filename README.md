@@ -45,16 +45,26 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Status |
 |:----|:----|:----|:----|:----:|:----:|
-AIES | Oct 12-14, 2026 | Malmo, Sweden | May 21, 2026 (May 14, 2026) | [🔗](https://www.aies-conference.com/2026) | Open |
-CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https://cikm2026.diag.uniroma1.it/) | Open |
-EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Open |
-CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Open |
-ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Open |
-WACV | Jan 4-8, 2027 | Disney Springs, Buena Vista, FL, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Open |
-ICSE | April 25 - May 1, 2027 | Dublin, Ireland | 30 Jun, 2026 (23 Jun, 2026) | [🔗](https://conf.researchr.org/dates/icse-2027) | Open |
-AAAI | Feb 16-23 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | TBD |
-IEEE Big Data | Dec 14 - 17, 2026 | Phoenix, Arizona, USA | Aug 21, 2026 | [🔗](https://bigdataieee.org/BigData2026/) | TBD |
-WDSM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | TBD |
+IEEE Big Data | Dec 14 - 17, 2026 | Phoenix, Arizona, USA | Aug 21, 2026 | [🔗](https://bigdataieee.org/BigData2026/) | Open |
+WSDM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | Open |
+ICLR | Apr 26-30, 2027 | California, USA | Sep 25, 2026 (Sep 18, 2026) | [🔗](https://iclr.cc/Conferences/2027/CallForPapers) | Open |
+IPDPS | Jun 1-5, 2027 | Seattle, WA, USA | Oct 8, 2026 (Oct 1, 2026) | [🔗](http://www.ipdps.org/ipdps2027/2027-call-for-papers.html) | Open |
+NAACL | Jun 1-5, 2027 | San Francisco, California, USA | Oct 12, 2026 (ARR October cycle) | [🔗](https://aclrollingreview.org/dates) | Open |
+ICML | July 11-17, 2027 (estimated) | TBD | Jan 22, 2027 (Jan 16, 2027) (estimated) | [🔗](https://icml.cc/) | TBD |
+MICCAI | Sep 26 - Oct 1, 2027 | Auckland, New Zealand | Feb 26, 2027 (estimated) | [🔗](https://miccai.org/upcoming-conferences/) | TBD |
+ACL | Aug 17-22, 2027 | Kyoto, Japan | Jan 2027, ARR January cycle (estimated) | [🔗](https://2027.aclweb.org/) | TBD |
+KDD | Aug 2027 | San Jose, California, USA | TBD (2nd cycle) (1st cycle July 26, 2026) | [🔗](https://kdd2027.kdd.org/research-track-call-for-papers/) | TBD |
+CVPR | Jun 19-26, 2027 (estimated) | Seattle, WA, USA (estimated) | TBD | [🔗](https://cvpr.thecvf.com/) | TBD |
+ICCV | Oct 2-8, 2027 (estimated) | Hong Kong (estimated) | TBD | [🔗](https://www.thecvf.com/) | TBD |
+CIKM | Oct 25-29, 2027 (estimated) | Sydney, Australia (estimated) | TBD | [🔗](http://www.cikmconference.org/) | TBD |
+AAAI | Feb 16-23, 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | Closed |
+ICSE | April 25 - May 1, 2027 | Dublin, Ireland | 30 Jun, 2026 (23 Jun, 2026) | [🔗](https://conf.researchr.org/dates/icse-2027) | Closed |
+WACV | Jan 4-8, 2027 | Disney Springs, Buena Vista, FL, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Closed |
+ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Closed |
+CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Closed |
+EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Closed |
+CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https://cikm2026.diag.uniroma1.it/) | Closed |
+AIES | Oct 12-14, 2026 | Malmo, Sweden | May 21, 2026 (May 14, 2026) | [🔗](https://www.aies-conference.com/2026) | Closed |
 NeurIPS | Dec 6 - 12, 2026 | Sydney, Australia | May 6, 2026 (May 4, 2026) | [🔗](https://neurips.cc/Conferences/2026) | Closed |
 SC | Nov 15 - 20, 2026 | Chicago, IL, USA | April 8, 2026 (April 1, 2026) | [🔗](https://sc26.supercomputing.org/) | Closed |
 ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
@@ -66,7 +76,7 @@ ACL | July 2 - 7, 2026 | San Diego, California, United States | Jan 5, 2026 | [�
 PAKDD | June 9 - 12, 2026 | Hong Kong | Nov 15, 2025 | [🔗](https://pakdd2026.org/) | Closed |
 CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2026)| Closed |
 MLSys | May 17 - 22, 2026 | Bellevue, WA, US | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates) | Closed |
-IPSPS | May 25-29, 2026 | New Orleans, USA | Oct 9, 2025 (Oct 2, 2025) | [🔗](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html) | Closed |
+IPDPS | May 25-29, 2026 | New Orleans, USA | Oct 9, 2025 (Oct 2, 2025) | [🔗](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html) | Closed |
 ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Closed |
 IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Closed |
 WACV | March 6-10, 2026| Tucson, Arizona, United States  |  July 18, 2025 | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) | Closed | 
@@ -87,6 +97,7 @@ Check [Acceptance rates for the major top-tier AI-related conferences](https://g
 * [Computer Science Conference Statistics](https://github.com/Xovee/cs-conf-stats) by [Xovee](https://github.com/Xovee)
 * [CCF-Deadlines](https://github.com/ccfddl/ccf-deadlines) by [ccfddl](https://github.com/ccfddl)
 * [AI Deadlines](https://github.com/paperswithcode/ai-deadlines) by [paperswithcode](https://github.com/paperswithcode)
+* https://www.conferencedeadlines.com is another cool collection.
 
 ## AI & ML
 ### ICML
