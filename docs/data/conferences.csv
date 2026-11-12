@@ -1,14 +1,25 @@
 name,full_name,year,category,abstract_deadline,paper_deadline,deadline_timezone,conf_start,conf_end,location,homepage,status,notes
-IEEE Big Data,IEEE International Conference on Big Data,2026,DM,,2026-08-21T23:59:00,UTC-12,2026-12-14,2026-12-17,Phoenix Arizona USA,https://bigdataieee.org/BigData2026/,open,
-WSDM,ACM International Conference on Web Search and Data Mining,2027,DM,2026-08-17T23:59:00,2026-08-24T23:59:00,UTC-12,2027-02-15,2027-02-19,Hong Kong,https://wsdm-conference.org/2027/,open,
-ICLR,International Conference on Learning Representations,2027,ML,2026-09-18T23:59:00,2026-09-25T23:59:00,UTC-12,2027-04-26,2027-04-30,California USA,https://iclr.cc/Conferences/2027/CallForPapers,open,
-IPDPS,International Parallel and Distributed Processing Symposium,2027,SE,2026-10-01T23:59:00,2026-10-08T23:59:00,UTC-12,2027-06-01,2027-06-05,Seattle WA USA,http://www.ipdps.org/ipdps2027/2027-call-for-papers.html,open,
-NAACL,Annual Conference of the Nations of the Americas Chapter of the ACL,2027,NLP,,2026-10-12T23:59:00,UTC-12,2027-06-01,2027-06-05,San Francisco California USA,https://aclrollingreview.org/dates,open,ARR October cycle
-ICML,International Conference on Machine Learning,2027,ML,2027-01-16T23:59:00,2027-01-22T23:59:00,UTC-12,2027-07-11,2027-07-17,TBD,https://icml.cc/,tbd,estimated - no official CFP yet
-MICCAI,Medical Image Computing and Computer-Assisted Intervention,2027,CV,,2027-02-26T23:59:00,UTC-12,2027-09-26,2027-10-01,Auckland New Zealand,https://miccai.org/upcoming-conferences/,tbd,deadline estimated - no official CFP yet
+CVPR,IEEE/CVF Conference on Computer Vision and Pattern Recognition,2027,CV,2026-11-10T23:59:00,2026-11-16T23:59:00,UTC-12,2027-06-20,2027-06-25,Seattle WA USA,https://cvpr.thecvf.com/Conferences/2027/Dates,open,
+PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining,2027,DM,,2026-11-20T23:59:00,UTC-12,2027-06-29,2027-07-02,Wellington New Zealand,https://pakdd2027.org/pages/dates,open,
+ACL,Annual Meeting of the Association for Computational Linguistics,2027,NLP,,2027-01-04T23:59:00,UTC-12,2027-08-17,2027-08-22,Kyoto Japan,https://2027.aclweb.org/,open,ARR January cycle
+ICML,International Conference on Machine Learning,2027,ML,2027-01-14T23:59:00,2027-01-22T23:59:00,UTC-12,2027-07-31,2027-08-06,Rio de Janeiro Brazil,https://icml.cc/,tbd,deadlines tentative - listed on icml.cc but CFP not yet posted
+IJCAI,International Joint Conference on Artificial Intelligence,2027,ML,,,UTC-12,2027-08-07,2027-08-17,Kyoto Japan and Hengqin China,https://www.ijcai.org/future_conferences,tbd,two sites: Kyoto Aug 7-13 and Hengqin Aug 15-17; deadline Jan 2027 (tentative)
+KDD,Knowledge Discovery and Data Mining,2027,DM,,,UTC-12,2027-08-01,2027-08-05,San Jose California USA,https://kdd2027.kdd.org/research-track-call-for-papers/,tbd,2nd cycle deadline Feb 2027 (tentative); 1st cycle Jul 26 2026
+MICCAI,Medical Image Computing and Computer-Assisted Intervention,2027,CV,,,UTC-12,2027-09-27,2027-10-01,Auckland New Zealand,https://conferences.miccai.org/2027/en/,tbd,deadline Feb 2027 (tentative)
+ICCV,IEEE/CVF International Conference on Computer Vision,2027,CV,,,UTC-12,2027-10-03,2027-10-07,Hong Kong,https://iccv.thecvf.com/Conferences/2027/Dates,tbd,deadline Mar 2027 (tentative)
+CIKM,International Conference on Information and Knowledge Management,2027,DM,,,UTC-12,2027-10-25 (tentative),2027-10-29 (tentative),Sydney Australia,http://www.cikmconference.org/,tbd,deadline May 2027 (tentative)
+NeurIPS,Neural Information Processing Systems,2027,ML,,,UTC-12,Dec 2027 (tentative),Dec 2027 (tentative),Europe (city TBD),https://neurips.cc/Conferences/FutureMeetings,tbd,deadline May 2027 (tentative)
+EMNLP,Conference on Empirical Methods in Natural Language Processing,2027,NLP,,,UTC-12,early Nov 2027 (tentative),early Nov 2027 (tentative),Mexico or Central America (tentative),https://www.aclweb.org/portal/content/joint-call-workshops-proposals-2027,tbd,
+MLSys,Conference on Machine Learning Systems,2027,ML,,2026-10-30T14:00:00,UTC-7,2027-06-21,2027-06-25,Bellevue WA USA,https://mlsys.org/,closed,
+NAACL,Annual Conference of the Nations of the Americas Chapter of the ACL,2027,NLP,,2026-10-12T23:59:00,UTC-12,2027-06-01,2027-06-05,San Francisco California USA,https://2027.naacl.org/calls/main_conference_papers/,closed,ARR October cycle
+COLING,International Conference on Computational Linguistics,2027,NLP,,2026-10-12T23:59:00,UTC-12,2027-05-09,2027-05-14,Macau China,https://www.aclweb.org/portal/content/32nd-international-conference-computational-linguistics-coling-2027,closed,ARR October cycle
+IPDPS,International Parallel and Distributed Processing Symposium,2027,SE,2026-10-01T23:59:00,2026-10-08T23:59:00,UTC-12,2027-06-01,2027-06-05,Seattle WA USA,http://www.ipdps.org/ipdps2027/2027-call-for-papers.html,closed,
+ICLR,International Conference on Learning Representations,2027,ML,2026-09-18T23:59:00,2026-09-25T23:59:00,UTC-12,2027-04-26,2027-04-30,San Francisco California USA (tentative),https://iclr.cc/Conferences/2027/CallForPapers,closed,
+WSDM,ACM International Conference on Web Search and Data Mining,2027,DM,2026-08-17T23:59:00,2026-08-24T23:59:00,UTC-12,2027-02-15,2027-02-19,Hong Kong,https://wsdm-conference.org/2027/,closed,
+IEEE Big Data,IEEE International Conference on Big Data,2026,DM,,2026-08-21T23:59:00,UTC-12,2026-12-14,2026-12-17,Phoenix Arizona USA,https://bigdataieee.org/BigData2026/,closed,
 AAAI,AAAI Conference on Artificial Intelligence,2027,ML,2026-07-21T23:59:00,2026-07-28T23:59:00,UTC-12,2027-02-16,2027-02-23,Montréal Québec Canada,https://aaai.org/conference/aaai/aaai-27,closed,
 ICSE,International Conference on Software Engineering,2027,SE,2026-06-23T23:59:00,2026-06-30T23:59:00,UTC-12,2027-04-25,2027-05-01,Dublin Ireland,https://conf.researchr.org/dates/icse-2027,closed,
-WACV,Winter Conference on Applications of Computer Vision,2027,CV,,2026-06-24T23:59:00,UTC-12,2027-01-04,2027-01-08,Disney Springs Buena Vista FL USA,https://wacv.thecvf.com/Conferences/2027,closed,
+WACV,Winter Conference on Applications of Computer Vision,2027,CV,2026-08-21T23:59:00,2026-08-28T23:59:00,UTC-12,2027-01-04,2027-01-08,Disney Springs Buena Vista FL USA,https://wacv.thecvf.com/Conferences/2027,closed,Round 2 shown; Round 1 registration Jun 19 2026 and submission Jun 26 2026
 ICDM,IEEE International Conference on Data Mining,2026,DM,,2026-06-05T23:59:00,UTC-12,2026-11-12,2026-11-15,Shenyang China,http://icdm2026.neu.edu.cn/,closed,
 CoRL,Conference on Robot Learning,2026,SE,2026-05-25T23:59:00,2026-05-28T23:59:00,UTC-12,2026-11-10,2026-11-12,Austin Texas USA,https://www.corl.org/,closed,
 EMNLP,Conference on Empirical Methods in Natural Language Processing,2026,NLP,,2026-05-25T23:59:00,UTC-12,2026-10-24,2026-10-29,Budapest Hungary,https://2026.emnlp.org/,closed,
@@ -29,7 +40,7 @@ IPDPS,International Parallel and Distributed Processing Symposium,2026,SE,2025-1
 ICLR,International Conference on Learning Representations,2026,ML,2025-09-19T23:59:00,2025-09-24T23:59:00,UTC-12,2026-04-23,2026-04-27,Rio de Janeiro Brazil,https://iclr.cc/Conferences/2026/CallForPapers,closed,
 IEEE Big Data,IEEE International Conference on Big Data,2025,DM,,2025-08-29T23:59:00,UTC-12,2025-12-05,2025-12-08,Macau China,https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html,closed,
 WACV,Winter Conference on Applications of Computer Vision,2026,CV,,2025-07-18T23:59:00,UTC-12,2026-03-06,2026-03-10,Tucson Arizona USA,https://wacv.thecvf.com/Conferences/2026/Dates,closed,
-AAAI,AAAI Conference on Artificial Intelligence,2026,ML,2025-07-07T23:59:00,2025-06-30T23:59:00,UTC-12,2026-01-20,2026-01-27,Singapore,https://aaai.org/conference/aaai/aaai-26/,closed,
+AAAI,AAAI Conference on Artificial Intelligence,2026,ML,2025-07-25T23:59:00,2025-08-01T23:59:00,UTC-12,2026-01-20,2026-01-27,Singapore,https://aaai.org/conference/aaai/aaai-26/,closed,
 ASE,IEEE/ACM International Conference on Automated Software Engineering,2025,SE,,2025-05-30T23:59:00,UTC-12,2025-11-16,2025-11-20,Seoul South Korea,https://conf.researchr.org/home/ase-2025,closed,
 CIKM,International Conference on Information and Knowledge Management,2025,DM,2025-05-16T23:59:00,2025-05-23T23:59:00,UTC-12,2025-11-10,2025-11-14,Seoul Korea,http://cikm2025.org,closed,
 NeurIPS,Neural Information Processing Systems,2025,ML,2025-05-11T23:59:00,2025-05-15T23:59:00,UTC-12,2025-12-02,2025-12-07,San Diego USA,https://neurips.cc/Conferences/2025,closed,
