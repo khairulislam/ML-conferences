@@ -45,48 +45,31 @@ This project lists the Machine Learning and Data Mining related conferences with
 
 Conference|When|Where|Deadline|Homepage| Status |
 |:----|:----|:----|:----|:----:|:----:|
-IEEE Big Data | Dec 14 - 17, 2026 | Phoenix, Arizona, USA | Aug 21, 2026 | [🔗](https://bigdataieee.org/BigData2026/) | Open |
-WSDM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | Open |
-ICLR | Apr 26-30, 2027 | California, USA | Sep 25, 2026 (Sep 18, 2026) | [🔗](https://iclr.cc/Conferences/2027/CallForPapers) | Open |
-IPDPS | Jun 1-5, 2027 | Seattle, WA, USA | Oct 8, 2026 (Oct 1, 2026) | [🔗](http://www.ipdps.org/ipdps2027/2027-call-for-papers.html) | Open |
-NAACL | Jun 1-5, 2027 | San Francisco, California, USA | Oct 12, 2026 (ARR October cycle) | [🔗](https://aclrollingreview.org/dates) | Open |
-ICML | July 11-17, 2027 (estimated) | TBD | Jan 22, 2027 (Jan 16, 2027) (estimated) | [🔗](https://icml.cc/) | TBD |
-MICCAI | Sep 26 - Oct 1, 2027 | Auckland, New Zealand | Feb 26, 2027 (estimated) | [🔗](https://miccai.org/upcoming-conferences/) | TBD |
-ACL | Aug 17-22, 2027 | Kyoto, Japan | Jan 2027, ARR January cycle (estimated) | [🔗](https://2027.aclweb.org/) | TBD |
-KDD | Aug 2027 | San Jose, California, USA | TBD (2nd cycle) (1st cycle July 26, 2026) | [🔗](https://kdd2027.kdd.org/research-track-call-for-papers/) | TBD |
-CVPR | Jun 19-26, 2027 (estimated) | Seattle, WA, USA (estimated) | TBD | [🔗](https://cvpr.thecvf.com/) | TBD |
-ICCV | Oct 2-8, 2027 (estimated) | Hong Kong (estimated) | TBD | [🔗](https://www.thecvf.com/) | TBD |
-CIKM | Oct 25-29, 2027 (estimated) | Sydney, Australia (estimated) | TBD | [🔗](http://www.cikmconference.org/) | TBD |
+CVPR | Jun 20 - 25, 2027 | Seattle, WA, USA | Nov 16, 2026 (Nov 10, 2026) | [🔗](https://cvpr.thecvf.com/Conferences/2027/Dates) | Open |
+PAKDD | Jun 29 - Jul 2, 2027 | Wellington, New Zealand | Nov 20, 2026 | [🔗](https://pakdd2027.org/pages/dates) | Open |
+ACL | Aug 17-22, 2027 | Kyoto, Japan | Jan 4, 2027 (ARR January cycle) | [🔗](https://2027.aclweb.org/) | Open |
+ICML | Jul 31 - Aug 6, 2027 | Rio de Janeiro, Brazil | Jan 22, 2027 (Jan 14, 2027) (tentative) | [🔗](https://icml.cc/) | TBD |
+IJCAI | Aug 7-13, 2027 (Kyoto) and Aug 15-17, 2027 (Hengqin) | Kyoto, Japan and Hengqin, China | Jan 2027 (tentative) | [🔗](https://www.ijcai.org/future_conferences) | TBD |
+KDD | Aug 1-5, 2027 | San Jose, California, USA | Feb 2027 (2nd cycle, tentative) (1st cycle July 26, 2026) | [🔗](https://kdd2027.kdd.org/research-track-call-for-papers/) | TBD |
+MICCAI | Sep 27 - Oct 1, 2027 | Auckland, New Zealand | Feb 2027 (tentative) | [🔗](https://conferences.miccai.org/2027/en/) | TBD |
+ICCV | Oct 3-7, 2027 | Hong Kong | Mar 2027 (tentative) | [🔗](https://iccv.thecvf.com/Conferences/2027/Dates) | TBD |
+CIKM | Oct 25-29, 2027 (tentative) | Sydney, Australia | May 2027 (tentative) | [🔗](http://www.cikmconference.org/) | TBD |
+NeurIPS | Dec 2027 (tentative) | Europe (city TBD) | May 2027 (tentative) | [🔗](https://neurips.cc/Conferences/FutureMeetings) | TBD |
+EMNLP | Early Nov 2027 (tentative) | Mexico or Central America (tentative) | TBD | [🔗](https://www.aclweb.org/portal/content/joint-call-workshops-proposals-2027) | TBD |
+MLSys | Jun 21 - 25, 2027 | Bellevue, WA, USA | Oct 30, 2026 | [🔗](https://mlsys.org/) | Closed |
+NAACL | Jun 1-5, 2027 | San Francisco, California, USA | Oct 12, 2026 (ARR October cycle) | [🔗](https://2027.naacl.org/calls/main_conference_papers/) | Closed |
+COLING | May 9-14, 2027 | Macau, China | Oct 12, 2026 (ARR October cycle) | [🔗](https://www.aclweb.org/portal/content/32nd-international-conference-computational-linguistics-coling-2027) | Closed |
+IPDPS | Jun 1-5, 2027 | Seattle, WA, USA | Oct 8, 2026 (Oct 1, 2026) | [🔗](http://www.ipdps.org/ipdps2027/2027-call-for-papers.html) | Closed |
+ICLR | Apr 26-30, 2027 | San Francisco, California, USA (tentative) | Sep 25, 2026 (Sep 18, 2026) | [🔗](https://iclr.cc/Conferences/2027/CallForPapers) | Closed |
+WSDM | Feb 15-19, 2027 | Cordis, Hong Kong SAR, China | Aug 24, 2026 (Aug 17, 2026) | [🔗](https://wsdm-conference.org/2027/) | Closed |
+IEEE Big Data | Dec 14 - 17, 2026 | Phoenix, Arizona, USA | Aug 21, 2026 | [🔗](https://bigdataieee.org/BigData2026/) | Closed |
 AAAI | Feb 16-23, 2027 | Montréal, Québec, Canada | July 28, 2026 (July 21, 2026) | [🔗](https://aaai.org/conference/aaai/aaai-27) | Closed |
 ICSE | April 25 - May 1, 2027 | Dublin, Ireland | 30 Jun, 2026 (23 Jun, 2026) | [🔗](https://conf.researchr.org/dates/icse-2027) | Closed |
-WACV | Jan 4-8, 2027 | Disney Springs, Buena Vista, FL, USA | Jun 24, 2026 | [🔗](https://wacv.thecvf.com/Conferences/2027) | Closed |
+WACV | Jan 4-8, 2027 | Disney Springs, Buena Vista, FL, USA | Aug 28, 2026 (Round 2); Jun 26, 2026 (Round 1) | [🔗](https://wacv.thecvf.com/Conferences/2027) | Closed |
 ICDM | Nov 12-15, 2026 | Shenyang, China | June 5, 2026 | [🔗](http://icdm2026.neu.edu.cn/) | Closed |
 CoRL | Nov 10-12, 2026 | Austin, Texas, USA | May 28, 2026 (May 25, 2026) | [🔗](https://www.corl.org/) | Closed |
-EMNLP | Oct 24-29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/) | Closed |
-CIKM | Nov 7-11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https://cikm2026.diag.uniroma1.it/) | Closed |
-AIES | Oct 12-14, 2026 | Malmo, Sweden | May 21, 2026 (May 14, 2026) | [🔗](https://www.aies-conference.com/2026) | Closed |
 NeurIPS | Dec 6 - 12, 2026 | Sydney, Australia | May 6, 2026 (May 4, 2026) | [🔗](https://neurips.cc/Conferences/2026) | Closed |
 SC | Nov 15 - 20, 2026 | Chicago, IL, USA | April 8, 2026 (April 1, 2026) | [🔗](https://sc26.supercomputing.org/) | Closed |
-ECCV | Sep 8, 2026 - Sep 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026) | Closed |
-MICCAI | Oct 4 - 8, 2026 | Abu Dhabi, UAE | Feb 26, 2026 (Feb 12, 2026) | [🔗](https://conferences.miccai.org/2026/en/) | Closed |
-KDD | Aug 9 - 13, 2026 | Jeju, South Korea | Feb 8, 2026 (Feb 1, 2026) (1st cycle July 31, 2025) | [🔗](https://kdd2026.kdd.org/)|  Closed |
-ICML | July 6 - 11, 2026 | Seoul, South Korea | Jan 28, 2026 (Jan 23, 2026) | [🔗](https://icml.cc/Conferences/2026)|  Closed |
-IJCAI | Aug 15 - 21, 2026 | Bremen, Germany | Jan 19, 2026 (Jan 12, 2026) | [🔗](https://2026.ijcai.org/) | Closed |
-ACL | July 2 - 7, 2026 | San Diego, California, United States | Jan 5, 2026 | [🔗](https://2026.aclweb.org/) | Closed |
-PAKDD | June 9 - 12, 2026 | Hong Kong | Nov 15, 2025 | [🔗](https://pakdd2026.org/) | Closed |
-CVPR | Jun 6 - 12, 2026 | Denver, Colorado, United States | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2026)| Closed |
-MLSys | May 17 - 22, 2026 | Bellevue, WA, US | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates) | Closed |
-IPDPS | May 25-29, 2026 | New Orleans, USA | Oct 9, 2025 (Oct 2, 2025) | [🔗](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html) | Closed |
-ICLR | Apr 23-27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) | Closed |
-IEEE Big Data | Dec 5 - 8, 2025 | Macau, China | Aug 29, 2025 | [🔗](https://conferences.cis.um.edu.mo/ieeebigdata2025/cfp.html) | Closed |
-WACV | March 6-10, 2026| Tucson, Arizona, United States  |  July 18, 2025 | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) | Closed | 
-AAAI | Jan 20-27, 2026 | Singapore | June 30, 2025 (July 7, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/) | Closed |
-ASE | Nov 16-20, 2025 | Seoul, South Korea  | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025) | Closed |
-CIKM | Nov 10-14, 2025 | Seoul, Korea  | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org) | Closed |
-NeurIPS | Dec 2-7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025) | Closed |
-ICSE | April 12 - 18, 2026| Rio de Janeiro, Brazil | Mar 14, 2025 (First cycle) | [🔗](https://conf.researchr.org/dates/icse-2026)| Closed|
-<!-- ICCV | Oct 19 - 25, 2025 | Honolulu, Hawaii | Mar 07, 2025 | [🔗](https://iccv.thecvf.com/) | Closed |
-COLING | Jan 19 - 24, 2025 | Abu Dhabi, UAE | Sep 16, 2024 | [🔗](https://coling2025.org) |  Closed | -->
 
 </div>
 
@@ -108,6 +91,7 @@ International Conference on Machine Learning. [\[DBLP\]](http://dblp.uni-trier.d
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Jul 6 - 11, 2026 | Seoul, South Korea | Jan 28, 2026 (Jan 23, 2026) | [🔗](https://icml.cc/Conferences/2026)
 2025 | Jul 11 - 19, 2025 | Vancouver, BC, Canada  | Jan 31, 2025 | [🔗](https://icml.cc/)|
 2024 | Jul 21, 2024 - Jul 27, 2024 | Vienna, Austria | Feb 1, 2024 | [🔗](https://icml.cc/)
 2023 | Jul 24, 2023 - Jul 30, 2023 | Seoul, South Korea  | Jan 26, 2023 | [🔗](https://icml.cc/Conferences/FutureMeetings)
@@ -133,6 +117,7 @@ Neural Information Processing Systems. [\[DBLP\]](http://dblp.uni-trier.de/db/co
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Dec 2 - 7, 2025 | San Diego, USA | May 15, 2025 (May 11, 2025) | [🔗](https://neurips.cc/Conferences/2025)
 2024 | Dec 9, 2024 - Dec 15, 2024 | Vancouver, Canada | May 22, 2024 (May 15, 2024) | [🔗](https://neurips.cc/Conferences/2024)
 2023 | Dec 10, 2023 - Dec 16, 2023 | New Orleans, USA | May 17, 2023 (May 11, 2023) | [🔗](https://nips.cc/Conferences/2023)
 2022 | Nov 28, 2022 - Dec 9, 2022 | New Orleans, USA | May 19, 2022 (May 19, 2022) | [🔗](https://neurips.cc/Conferences/2022)
@@ -153,6 +138,7 @@ International Conference on Learning Representations. [\[DBLP\]](http://dblp.uni
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Apr 23 - 27, 2026 | Rio de Janeiro, Brazil | Sep 24, 2025 (Sep 19, 2025) | [🔗](https://iclr.cc/Conferences/2026/CallForPapers) |
 2025 | Apr 24 - 28, 2025 | Singapore | Oct 1, 2024 | [🔗](https://iclr.cc/Conferences/2025/Dates) |
 2024 | May 7 - 11, 2024 |  Vienna, Austria | Sep 23, 2023 | [🔗](https://iclr.cc/Conferences/2024/Dates) |
 2023 | May 1 - 4, 2023 |  Kigali, Rwanda | Sep 28, 2022 | [🔗](https://iclr.cc/Conferences/2024/Dates) |
@@ -169,6 +155,8 @@ National Conference on Artificial Intelligence. [\[DBLP\]](http://dblp.uni-trier
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Jan 20 - 27, 2026 | Singapore | Aug 1, 2025 (Jul 25, 2025) | [🔗](https://aaai.org/conference/aaai/aaai-26/)
+2025 | Feb 25 - Mar 4, 2025 | Philadelphia, Pennsylvania, USA | Aug 15, 2024 (Aug 7, 2024) | [🔗](https://aaai.org/conference/aaai/aaai-25/)
 2024 | Feb 20, 2024 - Feb 27, 2024 | Vancouver, Canada | Aug 15, 2023 (Aug 8, 2023) | [🔗](https://aaai.org/aaai-conference/)
 2023 | Feb 7, 2023 - Feb 14, 2023 | Washington DC, USA | Aug 15, 2022 (Aug 8, 2022) | [🔗](https://aaai.org/Conferences/AAAI-23/)
 2022 | Feb 22, 2022 - Mar 1, 2022 | Virtual-only | Sep 8, 2021 (Aug 30, 2021) | [🔗](https://aaai.org/Conferences/AAAI-22/)
@@ -194,7 +182,8 @@ International Joint Conference on Artificial Intelligence. [\[DBLP\]](http://dbl
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-2025 | Aug 16 - Aug 22, 2025 | Montreal, Canada | TBD (Jan 17, 2025) |[🔗](https://2025.ijcai.org/) |
+2026 | Aug 15 - 21, 2026 | Bremen, Germany | Jan 19, 2026 (Jan 12, 2026) | [🔗](https://2026.ijcai.org/)
+2025 | Aug 16 - Aug 22, 2025 | Montreal, Canada | Jan 23, 2025 (Jan 16, 2025) |[🔗](https://2025.ijcai.org/) |
 2024 | Aug 3, 2024 - Aug 9, 2024 | Jeju, Korea | Jan 17, 2024 | [🔗](https://ijcai24.org/)
 2023 | Aug 19, 2023 - Aug 25, 2023 | Cape Town, South Africa | Jan 18, 2023 (Jan 11, 2023) | [🔗](https://ijcai-23.org/)
 2022 | Jul 23, 2022 - Jul 29, 2022 | Vienna, Austria | Jan 14, 2022 (Jan 7, 2022) | [🔗](https://ijcai-22.org/)
@@ -213,9 +202,15 @@ Year|When|Where|Deadline|Homepage
 
 International Conference on Machine Learning and Systems
 
+<details><div align="center" style="overflow-x:auto;">
+
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-MLSys | May 12 - 15, 2025 | Santa Clara, CA, US | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates) | Closed |
+2026 | May 17 - 22, 2026 | Bellevue, WA, USA | Oct 30, 2025 | [🔗](https://mlsys.org/Conferences/2026/Dates)
+2025 | May 12 - 15, 2025 | Santa Clara, CA, USA | Oct 31, 2024 | [🔗](https://mlsys.org/Conferences/2025/Dates)
+</div>
+
+</details>
 
 ## Data Mining
 ### KDD
@@ -226,6 +221,8 @@ Knowledge Discovery and Data Mining. [\[DBLP\]](http://dblp.uni-trier.de/db/conf
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Aug 9 - 13, 2026 | Jeju, South Korea | Feb 8, 2026 (Feb 1, 2026) (1st cycle Jul 31, 2025) | [🔗](https://kdd2026.kdd.org/)
+2025 | Aug 3 - 7, 2025 | Toronto, Canada | Feb 10, 2025 (Feb 3, 2025) (1st cycle Aug 8, 2024) | [🔗](https://kdd.org/kdd2025/)
 2024 | Aug 25, 2024 - Aug 29, 2024 | Barcelona, Spain | Feb 8, 2024 (Feb 1, 2024) | [🔗](https://kdd2024.kdd.org/)
 2023 | Aug 6, 2023 - Aug 10, 2023 | Long Beach, CA, USA | Feb 2, 2023 | [🔗](https://kdd.org/kdd2023/)
 2022 | Aug 14, 2022 - Aug 18, 2022 | Washington DC | Feb 10, 2022 | [🔗](https://kdd.org/kdd2022/)
@@ -254,6 +251,8 @@ Conference on Information and Knowledge Management. [\[DBLP\]](http://dblp.uni-t
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Nov 7 - 11, 2026 | Rome, Italy | May 23, 2026 (May 16, 2026) | [🔗](https://cikm2026.diag.uniroma1.it/)
+2025 | Nov 10 - 14, 2025 | Seoul, South Korea | May 23, 2025 (May 16, 2025) | [🔗](http://cikm2025.org)
 2024 | Oct 21, 2024 - Oct 25, 2024 | Boise, ID, USA  | May 20, 2024 (May 13, 2024) | [🔗](http://cikm2024.org)
 2023 | Oct 21, 2023 - Oct 25, 2023 | Birmingham, UK | Jun 2, 2023 (May 26, 2023) | [🔗](https://uobevents.eventsair.com/cikm2023/2023-cikm-calls)
 2022 | Oct 17, 2022 - Oct 22, 2022 | Atlanta, Georgia, USA | May 19, 2022 (May 12, 2022) | [🔗](https://www.cikm2022.org/calls/call-for-applied-research-papers)
@@ -281,6 +280,8 @@ Pacific-Asia Conference on Knowledge Discovery and Data Mining. [\[DBLP\]](http:
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Jun 9 - 12, 2026 | Hong Kong | Nov 15, 2025 | [🔗](https://pakdd2026.org/)
+2025 | Jun 10 - 13, 2025 | Sydney, Australia | Dec 14, 2024 | [🔗](https://pakdd2025.org/)
 2024 | May 7, 2024 - May 10, 2024 | Taipei, Taiwan | Nov 29, 2023 | [🔗](https://pakdd2024.org/)
 2023 | May 25, 2023 - May 28, 2023 | Osaka, Japan | Dec 7, 2022 | [🔗](http://pakdd2023.org/cfp)
 2021 | May 11, 2021 - May 14, 2021 | Delhi, India | Nov 30, 2020 (Nov 23, 2020) | [🔗](https://pakdd2021.org/)
@@ -306,6 +307,7 @@ Computer Vision and Pattern Recognition. [\[DBLP\]](http://dblp.uni-trier.de/db/
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Jun 6 - 12, 2026 | Denver, Colorado, USA | Nov 13, 2025 (Nov 6, 2025) | [🔗](https://cvpr.thecvf.com/Conferences/2026)
 2025 | Jun 11 - 16, 2025 | Nashville, Tennessee | Nov 15, 2024 | [🔗](https://cvpr.thecvf.com/Conferences/2025)|
 2024 | Jun 17, 2024 - Jun 21, 2024 | Seattle, USA | Nov 10, 2023 (Nov 3, 2023) | [🔗](https://cvpr.thecvf.com/Conferences/2024)
 2023 | Jun 18, 2023 - Jun 22, 2023 | Vancouver, Canada | Nov 11, 2022 | [🔗](https://cvpr.thecvf.com/Conferences/2023)
@@ -332,6 +334,7 @@ European Conference on Computer Vision. [\[DBLP\]](http://dblp.uni-trier.de/db/c
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Sep 8 - 13, 2026 | Malmö, Sweden | Mar 6, 2026 | [🔗](https://eccv.ecva.net/Conferences/2026)
 2024 | Sep 29, 2024 - Oct 4, 2024 | MiCo Milano, Milan, Italy | Mar 7, 2024 (Feb 29, 2024) | [🔗](https://eccv2024.ecva.net/)
 2022 | Oct 24, 2022 - Oct 28, 2022 | Tel Aviv | Mar 7, 2022 | [🔗](https://eccv2022.ecva.net/)
 2020 | Aug 23, 2020 - Aug 28, 2020 | Glasgow | TBD | [🔗](https://eccv2020.eu/)
@@ -351,7 +354,9 @@ Winter Conference on Applications of Computer Vision
 
 |Year|When|Where|Deadline|Homepage|
 |:----|:----|:----|:----|:----:|
-|2026 | March 6-10, 2026| Tucson, Arizona, United States  |  Sep 20, 2025 (Sep 13, 2025) | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) |
+|2026 | March 6-10, 2026| Tucson, Arizona, United States  | Sep 19, 2025 (Round 2); Jul 18, 2025 (Round 1) | [🔗](https://wacv.thecvf.com/Conferences/2026/Dates) |
+|2025 | Feb 28 - Mar 4, 2025 | Tucson, Arizona, United States | Sep 9, 2024 (Round 2); Jul 15, 2024 (Round 1) | [🔗](https://wacv2025.thecvf.com/) |
+</div>
 
 </details>
 
@@ -363,7 +368,7 @@ International Conference on Computer Vision. [\[DBLP\]](http://dblp.uni-trier.de
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
-2025 | Oct 19, 2025 - Oct 25, 2025 | Honolulu, Hawaii | TBD | [🔗](https://www.thecvf.com/)
+2025 | Oct 19, 2025 - Oct 25, 2025 | Honolulu, Hawaii | Mar 7, 2025 | [🔗](https://iccv.thecvf.com/Conferences/2025)
 2023 | Oct 2, 2023 - Oct 6, 2023 | Paris, France | Mar 8, 2023 | [🔗](https://iccv2023.thecvf.com/)
 2021 | Oct 11, 2021 - Oct 17, 2021 | Montreal, Canada | Mar 17, 2021 (Mar 10, 2021) | [🔗](http://iccv2021.thecvf.com)
 2019 | Oct 27, 2019 - Nov 3, 2019 | Seoul, Korea | Mar 1, 2019 | [🔗](http://iccv2019.thecvf.com/submission/timeline)
@@ -383,6 +388,8 @@ Medical Image Computing and Computer-Assisted Intervention. [\[DBLP\]](http://db
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Oct 4 - 8, 2026 | Abu Dhabi, UAE | Feb 26, 2026 (Feb 12, 2026) | [🔗](https://conferences.miccai.org/2026/en/)
+2025 | Sep 23 - 27, 2025 | Daejeon, South Korea | Feb 27, 2025 (Feb 13, 2025) | [🔗](https://conferences.miccai.org/2025/en/)
 2024 | Oct 6, 2024 - Oct 10, 2024 | MARRAKESH / MOROCCO | Mar 7, 2024 (Feb 22, 2024) | [🔗](https://conferences.miccai.org/2024/en/)
 2023 | Oct 8, 2023 - Oct 12, 2023 | Vancouver/CANADA | Mar 9, 2023 | [🔗](https://conferences.miccai.org/2023/en/CALL-FOR-PAPERS.html)
 2020 | Oct 4, 2020 - Oct 8, 2020 | Lima, Peru | Mar 2, 2020 (Feb 18, 2020) | [🔗](https://miccai2020.org/en/default.asp)
@@ -406,6 +413,7 @@ Meeting of the Association for Computational Linguistics. [\[DBLP\]](http://dblp
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Jul 2 - 7, 2026 | San Diego, California, USA | Jan 5, 2026 | [🔗](https://2026.aclweb.org/)
 2025 | Jul 27 - Aug 1, 2025 | Vienna, Austria | Feb 15, 2025 | [🔗](https://2025.aclweb.org/) |
 2024 | Aug 11, 2024 - Aug 16, 2024 | Bangkok, Thailand | Feb 15, 2024 | [🔗](https://2024.aclweb.org/)
 2023 | Jul 9, 2023 - Jul 14, 2023 | Toronto, Canada | Jan 20, 2023 (Jan 13, 2023) | [🔗](https://2023.aclweb.org)
@@ -432,6 +440,8 @@ Empirical Methods in Natural Language Processing. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Oct 24 - 29, 2026 | Budapest, Hungary | May 25, 2026 | [🔗](https://2026.emnlp.org/)
+2025 | Nov 5 - 9, 2025 | Suzhou, China | May 19, 2025 | [🔗](https://2025.emnlp.org/)
 2024 | Nov 12, 2024 - Nov 16, 2024 | Miami, Florida | Jun 15, 2024 | [🔗](https://2024.emnlp.org/)
 2023 | Dec 6, 2023 - Dec 10, 2023 | Singapore | Jun 23, 2023 (Jun 16, 2023) | [🔗](https://2023.emnlp.org/)
 2022 | Dec 7, 2022 - Dec 11, 2022 | Abu Dhabi, UAE | Jun 24, 2022 (Jun 17, 2022) | [🔗](https://2022.emnlp.org/)
@@ -457,6 +467,7 @@ North American Chapter of the Association for Computational Linguistics. [\[DBLP
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2025 | Apr 29 - May 4, 2025 | Albuquerque, New Mexico, USA | Oct 15, 2024 | [🔗](https://2025.naacl.org/)
 2024 | Jun 16, 2024 - Jun 21, 2024 | Mexico City, Mexico | Feb 20, 2024 | [🔗](https://2024.naacl.org/)
 2022 | Jul 10, 2022 - Jul 15, 2022 | Seattle, WA, USA | Jan 15, 2022 | [🔗](https://2022.naacl.org/calls/papers/)
 2016 | Jun 12, 2016 - Jun 17, 2016 | San Diego | Jan 6, 2016 | [🔗](http://naacl.org/naacl-hlt-2016/)
@@ -498,6 +509,7 @@ International Conference on Software Engineering. [\[DBLP\]](http://dblp.uni-tri
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Apr 12 - 18, 2026 | Rio de Janeiro, Brazil | Mar 14, 2025 (first cycle) | [🔗](https://conf.researchr.org/home/icse-2026)
 2025 | April 27 - May 3, 2025| Ontario, Canada | Nov 11, 2024 | [🔗](https://conf.researchr.org/home/icse-2025)| 
 2024 | Apr 14, 2024 - Apr 20, 2024 | Lisbon | Aug 1, 2023 | [🔗](https://conf.researchr.org/home/icse-2024)
 2023 | May 14, 2023 - May 20, 2023 | Melbourne, Australia | Sep 1, 2022 | [🔗](https://conf.researchr.org/home/icse-2023)
@@ -525,6 +537,8 @@ Automated Software Engineering. [\[DBLP\]](http://dblp.uni-trier.de/db/conf/kbse
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Oct 12 - 16, 2026 | Munich, Germany | Mar 26, 2026 | [🔗](https://conf.researchr.org/home/ase-2026)
+2025 | Nov 16 - 20, 2025 | Seoul, South Korea | May 30, 2025 | [🔗](https://conf.researchr.org/home/ase-2025)
 2024 | Sep 29, 2024 - Oct 4, 2024 | Sacramento United States  | Jun 7, 2024 (May 31, 2024) | [🔗](https://conf.researchr.org/home/ase-2024)
 2023 | Sep 11, 2023 - Sep 15, 2023 | Kirchberg, Luxembourg | May 5, 2023 (Apr 28, 2023) | [🔗](https://conf.researchr.org/home/ase-2023)
 2022 | Oct 10, 2022 - Oct 14, 2022 | Oakland Center, Michigan, United States | May 6, 2022 (Apr 29, 2022) | [🔗](https://conf.researchr.org/home/ase-2022)
@@ -553,6 +567,8 @@ Empirical Software Engineering and Measurement (ESEM). [\[DBLP\]](https://dblp.u
 
 Year|When|Where|Deadline|Homepage
 |:----|:----|:----|:----|:----:|
+2026 | Oct 4 - 9, 2026 (ESEIW) | Munich, Germany | May 18, 2026 (May 11, 2026) | [🔗](https://conf.researchr.org/home/esem-2026)
+2025 | Sep 28 - Oct 3, 2025 (ESEIW) | Honolulu, Hawaii, USA | Apr 25, 2025 (Apr 18, 2025) | [🔗](https://conf.researchr.org/home/esem-2025)
 2024 | Oct 20 - 25, 2024 | Barcelona, Spain | | [🔗](https://conf.researchr.org/home/esem-2024) |
 2023 | Oct 23, 2023 - Oct 27, 2023 | New Orleans, Louisiana, United States | May 2, 2023 (Apr 14, 2023) | [🔗](https://conf.researchr.org/home/esem-2023)
 2022 | Sep 19, 2022 - Sep 22, 2022 | Helsinki | May 2, 2022 (Apr 25, 2022) | [🔗](https://conf.researchr.org/home/esem-2022)
