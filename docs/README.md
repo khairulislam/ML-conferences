@@ -330,6 +330,8 @@ Contributions welcome! To add conferences, update acceptance rates, or improve t
 3. Submit a pull request
 4. We'll review and merge
 
+**Inclusion policy**: A conference must be ranked A* or A in the latest [CORE ranking](https://portal.core.edu.au/conf-ranks/). A venue that CORE does not list or ranks lower is accepted only if it is an established top venue of its subfield (e.g. MLSys, CoRL), at the maintainer's discretion. Commercial conferences with multiple submission rounds are not accepted. Include the venue's CORE rank in the pull request description.
+
 **Focus areas**:
 - Add more conferences
 - Expand historical acceptance rate data
